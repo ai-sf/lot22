@@ -1,0 +1,129 @@
+info: " <p> The Lights of Tuscany programme is coming to its second edition. Following last year's great success, the Italian Association of Physics Students (AISF) will be organising it once more, also including some new features and further improvements.</p>
+<p>
+During the Programme, 40 students will be visiting the European Laboratory for Nonlinear Spectroscopy, the VIRGO site of the European Gravitational Observatory and the facilities at the INFN, University of Pisa and University of Firenze in central Italy. The event will have a focus on Photonics, but a number of other topics will be touched upon, including plasma physics, quantum optics and high energy collisions. Students will be expected to have a basic understanding of these subjects in order to effectively make the most of the programme.
+</p> "
+
+last_update: 15/12/2016
+
+schedule:
+  - day: Thursday
+    date: "15/12"
+    short_descr: Arrival and Opening Ceremony in Pisa.
+    activity:
+      - hour: "12.00 - 16.00"
+        descr: "Check-in"
+      - hour: "17.00-17.20"
+        descr: "Introduction to LoT and IAPS"
+      - hour: "17.20-17.50"
+        descr: "Prof. Andrea Macchi 'Under Light Pressure; from Solar Sails to Laser Accelerators' "
+      - hour: "17.50-18.20"
+        descr: "Prof. Alessandro Pitanti 'Optomechanics with active optical systems'"
+      - hour: "18.20-18.30"
+        descr: "Short Break"
+      - hour: "18.30-19.00"
+        descr: "Prof. Isidoro Ferrante 'The first detection of gravitational waves'"
+      - hour: "19.00-19.30"
+        descr: "Prof. Oliver Morsch 'Feynman's legacy and the second quantum revolution'"
+      - hour: "19.30-19.50"
+        descr: "ICPS 2017"
+      - hour: "19.50-21.30"
+        descr: "Italian Apericena"
+      - hour: "21.30- ..."
+        descr: "Pisa by Night"
+        
+  - day: Friday
+    date: "16/12"
+    short_descr: Visit to LENS and UNIFI laboratories
+    activity:
+      - hour: "08.15 - 09.00"
+        descr: "Bus to LENS"
+      - hour: "09.15 - 09.45"
+        descr: "Prof. Leonardo Fallani"
+      - hour: "09.45 - 10.15"
+        descr: "Prof. Massimo Gurioli: Engineering Light Modes"
+      - hour: "10.15 - 10.30"
+        descr: "Coffee Break"
+      - hour: "10.30-11.00"
+        descr: "Prof. Diederik Wiersma: Photonics Inspired by Nature"
+      - hour: "11.00-11.30"
+        descr: "Prof. Francesco Saverio Cataliotti: Quantum Technologies: bilocation, teleportation and other quantum marvels"
+      - hour: "11.30-11.45"
+        descr: "Thesis, PHD, Internship @Unifi and @LENS"
+      - hour: "12.00-13.15"
+        descr: "Labs Visit"
+      - hour: "13.15-14.30"
+        descr: "Lunch @LENS"
+      - hour: "14.30-18.00"
+        descr: "Labs Visit"
+        
+        
+        
+        
+        
+  - day: Saturday
+    date: "17/12"
+    short_descr: Visits to VIRGO and Pisa University laboratories
+    activity:
+      - hour: "10.30 - 13.15"
+        descr: "Visit to Pisa University Laboratories"
+      - hour: "13.15 - 14.30"
+        descr: "Lunch"
+      - hour: "14.50 - 15.15"
+        descr: "Bus to Virgo"
+      - hour: "15.00 - 15.45"
+        descr: "Lectures at VIRGO"
+      - hour: "15.45 - 18.00"
+        descr: "Visit to the VIRGO facility"
+      - hour: "18.30 - 19.30"
+        descr: "Bus To Florence"
+      - hour: "20.00"
+        descr: "Check-in in Florence Hostel"
+      - hour: "20.30- .."
+        descr: "Free night in Florence"
+        
+        
+  - day: Sunday
+    date: "18/12"
+    short_descr: Visit to Florence
+    activity:
+      - hour: "9.30"
+        descr: "Uffizi Gallery visit (Optional)"
+      - hour: "10.00 - 17.30"
+        descr: "Free day in Florence"
+      - hour: "18.00 - 19.00"
+        descr: "Train To Pisa"
+      - hour: "19.30 - 21.00"
+        descr: "Greek Dinner @ \"Itaca\" Restaurant"
+      - hour: "21.00- ..."
+        descr: "Free night in Pisa"
+        
+  - day: Monday
+    date: "19/12"
+    short_descr: To be determined. Laboratory visit and ending ceremony
+    activity:
+      - hour: "9.00 - 13.00"
+        descr: "Visit to LENS/INO"
+      - hour: "13.00"
+        descr: "Ending Ceremony"
+
+few_info:
+  info: ""
+  specs:
+    - text: "In order to enroll to the event you must be an IAPS member."
+      url: "#!"
+    - text: "We expect to select 40 students, of whom approximately half will be Italian."
+      url: "#!"
+    - text: "Participation fees are fixed at  for each applicant. Such fee will cover the cost of accommodation in Pisa breakfasts at the Moderno Hotel, a buffet dinner at Pisa University, one lunch at the GSSI canteen, AISF-IAPS t-shirts.Please notice that participation fees <b>do not cover</b> the following:"
+      url: "#!"
+      subpoints:
+        - text: "Journeys to/from Pisa at arrival and departure. These will need to be arranged independently;"
+          url: "#!"
+        - text: "Insurance;"
+          url: "#!"
+        - text: "Meals other than those officially offered in the Programme. When useful, the Organising Committee will always suggest places to eat."
+          url: "#!"
+    - text: "Note: if you are Italian and you are not an IAPS/AISF member yet, no problem! Just fill in the registration forms for both AISF membership and participation to this event!"
+      url: "http://ai-sf.it/iscrizione/"
+      button: "AISF registration"
+    - text: "Please note that unfortunately we are not able to provide scholarships and/or bursaries for any students at this time."
+      url: "#!"

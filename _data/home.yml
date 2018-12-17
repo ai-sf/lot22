@@ -1,0 +1,34 @@
+banner: img/logo_lot19.svg
+
+# msg: "Thank you for coming, we'll be back in 2019!"
+
+who: "40 physics students, from the Italian Association of Physics Students and the International Association of Physics Students. All backgrounds and nationalities are welcome!"
+
+when: "From the 15th to the 19th December 2016."
+
+where: "In Pisa and Florence. Students will attend the opening ceremony at the University of Pisa. On the second day, they will visit LENS laboratories and the University of Florence. The next day they will visit INFN/Pisa and VIRGO laboratories. On sunday they will visit Florence and the last day there will be the chance to visit other cutting-edge facilities in Pisa"
+
+slideshow:
+  - img: img/facilities/lens.jpg
+    alt: European Laboratory for Nonlinear Spectroscopy
+    title: LENS
+    text: European Laboratory for Nonlinear Spectroscopy
+  - img: img/nest1.jpg
+    alt: National Enterprise for nanoScience and nanoTechnology
+    title: NEST
+    text: National Enterprise for nanoScience and nanoTechnology
+  - img: img/facilities/LoT5.jpg
+    alt: VIRGO European Gravitational Observatory
+    title: VIRGO
+    text: VIRGO European Gravitational Observatory
+  - img: img/facilities/IMG_-_46.jpg
+    alt: University of Pisa
+    title: UNIPI
+    text: University of Pisa
+  - img: img/facilities/unifi.jpg
+    alt: University of Florence
+    title: UNIFI
+    text: University of Florence
+    
+
+paragraph: "The Lights of Tuscany programme, now at its second edition, is organised by the Italian Association of Physics Students and is open to all members of the International Association of Physics Students. The event will bring 40 students to visit some of the most advanced research facilities in Europe, with a focus on Photonics and Optics and one key mission: to foster enthusiasm in the minds of young physicists."
