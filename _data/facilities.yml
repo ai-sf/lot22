@@ -12,12 +12,12 @@ The University of Florence.
 <br>
 During our visits, we will be offered a large number of talks, as in the 2015 edition. In particular, we expect to have overviews of all the major experiments running at the different laboratories. It will be an undoubtedly rich experience. We will provide further details on our speakers as they become available."
 
-restaurant:
-  - img: img/facilities/itaca.jpg
-    title: Itaca
-    descr: "A place where you can taste all the classic greek food and where, after a long and stressing day, you can find peace just like Ulysses in his homeland"
-    site: 
-    map: "https://goo.gl/maps/pa9sYxMj9Lo"
+//restaurant:
+  //- img: img/facilities/itaca.jpg
+  //  title: Itaca
+  //  descr: "A place where you can taste all the classic greek food and where, after a long and stressing day, you can find peace just like Ulysses in his homeland"
+  //  site: 
+  //  map: "https://goo.gl/maps/pa9sYxMj9Lo"
 
 
 accomodation:
