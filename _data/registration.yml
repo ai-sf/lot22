@@ -1,10 +1,10 @@
-info: "Registration will be opened on this page on November 3rd at 13.00 CET.
+info: "Registration will be opened on this page on January 21st at 13.00 CET.
 </p><p>
 Please read the terms and conditions below. Please note that, upon registration, you will be asked for personal details (such as name, surname, date of birth, university affiliation, passport number etc.) and a 100 word text to describe your motivation to take part in the event. We recommend that you take this element of the selection very seriously (expressing your interest with clarity and good spelling!), as it will be taken into consideration when selecting applicants."
 
 posters?: false
 
-posters: "A set of student talks and posters will be held at the GSSI and students of all levels and specialisations are invited to apply to present their research work, whether this is part of a thesis project (at bachelor, master or PhD level) or is an outcome of a summer research programme. A number of prizes will be awarded by the LNGS (see the Programme for details)."
+posters: "A set of student talks be held at Firenze and a poster session will take place at INFN section of Pisa. Students of all levels and specialisations are invited to apply to present their research work, whether this is part of a thesis project (at bachelor, master or PhD level) or is an outcome of a summer research programme. A number of prizes will be awarded by the LNGS (see the Programme for details)."
 
 terms:
   info: "Please read carefully and take note of the following:"
@@ -30,9 +30,9 @@ terms:
 deadlines:
   info: ""
   specs:
-    - text: "A first round of registration for the event will be open at this page between November 3 and 10."
+    - text: "A first round of registration for the event will be open at this page between January 21 and February  10."
       url: "#!"
-    - text: "Following the registration period, we expect to email all applicants within 2 days. Payments will then be required (by bank transfer or PayPal) within 5 days of receiving an acceptance email from the organising committee."
+    - text: "Following the registration period, we expect to email all applicants within 2 days. Payments will then be required (by bank transfer or PayPal) within 7 days of receiving an acceptance email from the organising committee."
       url: "#!"
     - text: "Please notice that applicants do not need to be specialising in the field of photonics, but can be from any discipline of Physics."
       url: "#!"
