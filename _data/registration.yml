@@ -2,9 +2,23 @@ info: "Registration will be opened on this page on January 21st at 13.00 CET.
 </p><p>
 Please read the terms and conditions below. Please note that, upon registration, you will be asked for personal details (such as name, surname, date of birth, university affiliation, passport number etc.) and a 100 word text to describe your motivation to take part in the event. We recommend that you take this element of the selection very seriously (expressing your interest with clarity and good spelling!), as it will be taken into consideration when selecting applicants."
 
-posters?: false
+posters?: true
 
 posters: "A set of student talks be held at Firenze and a poster session will take place at INFN section of Pisa. Students of all levels and specialisations are invited to apply to present their research work, whether this is part of a thesis project (at bachelor, master or PhD level) or is an outcome of a summer research programme. A number of prizes will be awarded by the LNGS (see the Programme for details)."
+
+selection:
+  info: ""
+  specs:
+    - text: "In order to enroll to the event you must be an IAPS member."
+      url: "#!"
+    - text: "40 places are available, 20 of which will be granted to AISF members. The selected candidates will have to cover a participation fee of €100"
+    - text: "Preference will be given to students presenting abstracts (for either a talk or a poster)"
+      url: "#!"         
+    - text: "Note: if you are Italian and you are not an IAPS/AISF member yet you can become an AISF member while registering for this event: you need to fill in this module and make a single payment including both the quotes."
+      url: "http://ai-sf.it/iscrizione"
+      button: Form
+    - text: "Please note that unfortunately we are not able to provide scholarships and/or bursaries for any students at this time."
+      url: "#!"
 
 terms:
   info: "Please read carefully and take note of the following:"
