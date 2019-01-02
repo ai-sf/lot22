@@ -1,18 +1,18 @@
-info: " <p> The Lights of Tuscany programme is coming to its second edition. Following last year's great success, the Italian Association of Physics Students (AISF) will be organising it once more, also including some new features and further improvements.</p>
+info: " <p> The Lights of Tuscany programme is coming to its third edition. Following last years' great success, the Italian Association of Physics Students (AISF) will be organising it once more, also including some new features and further improvements.</p>
 <p>
-During the Programme, 40 students will be visiting the European Laboratory for Nonlinear Spectroscopy, the VIRGO site of the European Gravitational Observatory and the facilities at the INFN, University of Pisa and University of Firenze in central Italy. The event will have a focus on Photonics, but a number of other topics will be touched upon, including plasma physics, quantum optics and high energy collisions. Students will be expected to have a basic understanding of these subjects in order to effectively make the most of the programme.
+During the Programme, 40 students will be visiting the European Laboratory for Nonlinear Spectroscopy, the VIRGO site of the European Gravitational Observatory and the facilities at the INFN, University of Pisa and University of Firenze in central Italy. The event will have a focus on Photonics, but a number of other topics will be touched upon, including Matter physics, Quantum Optics, Biophysics. Students will be expected to have a basic understanding of these subjects in order to effectively make the most of the programme.
 </p> "
 
-last_update: 15/12/2016
+
 
 schedule:
   - day: Thursday
-    date: "15/12"
+    date: "11/04"
     short_descr: Arrival and Opening Ceremony in Pisa.
     activity:
-      - hour: "12.00 - 16.00"
+      - hour: "10.00 - 15.00"
         descr: "Check-in"
-      - hour: "17.00-17.20"
+      - hour: "15.30-17.20"
         descr: "Introduction to LoT and IAPS"
       - hour: "17.20-17.50"
         descr: "Prof. Andrea Macchi 'Under Light Pressure; from Solar Sails to Laser Accelerators' "
@@ -32,11 +32,11 @@ schedule:
         descr: "Pisa by Night"
         
   - day: Friday
-    date: "16/12"
-    short_descr: Visit to LENS and UNIFI laboratories
+    date: "12/04"
+    short_descr: Visit to VIRGO & Pisa Labs
     activity:
       - hour: "08.15 - 09.00"
-        descr: "Bus to LENS"
+        descr: "Bus to VIRGO"
       - hour: "09.15 - 09.45"
         descr: "Prof. Leonardo Fallani"
       - hour: "09.45 - 10.15"
@@ -61,8 +61,8 @@ schedule:
         
         
   - day: Saturday
-    date: "17/12"
-    short_descr: Visits to VIRGO and Pisa University laboratories
+    date: "13/04"
+    short_descr: Student Talks & Career Workshop
     activity:
       - hour: "10.30 - 13.15"
         descr: "Visit to Pisa University Laboratories"
@@ -83,7 +83,7 @@ schedule:
         
         
   - day: Sunday
-    date: "18/12"
+    date: "14/04"
     short_descr: Visit to Florence
     activity:
       - hour: "9.30"
@@ -98,8 +98,8 @@ schedule:
         descr: "Free night in Pisa"
         
   - day: Monday
-    date: "19/12"
-    short_descr: To be determined. Laboratory visit and ending ceremony
+    date: "15/04"
+    short_descr: Visits to LENS and UNIFI Laboratories
     activity:
       - hour: "9.00 - 13.00"
         descr: "Visit to LENS/INO"
