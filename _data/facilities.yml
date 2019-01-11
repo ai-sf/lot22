@@ -68,13 +68,13 @@ science:
     site: "http://www.df.unipi.it"
     map: "https://www.google.es/maps/place/Largo+Bruno+Pontecorvo,+56127+Pisa+PI,+Italy/@43.7199988,10.4051688,17z/data=!3m1!4b1!4m5!3m4!1s0x12d591bca16a42c9:0x1b68e0b23702261a!8m2!3d43.7199949!4d10.4073628?hl=en"
     
-  - img: img/facilities/INO.jpg
+  - img: img/facilities/Pi_INO.jpg
     title: INO
     descr: "The current National Institute of Optics (INO) is a mainstay of CNR scientific network. It has been working for over ninety years in the field of Optics, understood in its broadest meaning, and has updated its fields of activity in line with the huge innovations that have characterized this area over the last century."
     site: "https://fed.ino.it/"
     map: "https://www.google.com/maps/place/Istituto+Nazionale+di+Ottica+(INO)+-+CNR+-+Pisa/@43.7192589,10.4240063,15z/data=!4m5!3m4!1s0x0:0x838ddb26b28a1f99!8m2!3d43.7192589!4d10.4240063"
     
-  -img: img/facilities/IBF.jpg
+  -img: img/facilities/INO.jpg
    title: IBF
    descr: "The Biophysics Institute (IBF) was established in May 2001, and it's an interdisciplinary Centre of National Research Council (CNR). IBF’s mission is to apply methodologies and techniques typical of the physical sciences to the study of the structure and functions of biological systems.
    site: "http://www.pi.ibf.cnr.it/"
