@@ -1,16 +1,20 @@
-intro: "The European Laboratory for Nonlinear Spectroscopy (LENS).
+intro: "The scientific programme plans to show the participants a wide spectrum of high profile scientific and academic facilities present in Pisa and Florence
+<br>
+The European Laboratory for Nonlinear Spectroscopy (LENS).
 <br>
 The VIRGO site of the European Gravitational Observatory (EGO).
 <br>
 The National Institute for Nuclear Physics (INFN).
 <br>
-The National Enterprise for nanoScience and nanoTechnology (NEST)
+The National Enterprise for nanoScience and nanoTechnology (NEST).
+<br>
+Italy National Research Council (CNR).
 <br>
 The University of Pisa.
 <br>
 The University of Florence. 
 <br>
-During our visits, we will be offered a large number of talks, as in the 2015 edition. In particular, we expect to have overviews of all the major experiments running at the different laboratories. It will be an undoubtedly rich experience. We will provide further details on our speakers as they become available."
+During our visits, we will be offered a large number of talks, as in the past editions. In particular, we expect to have overviews of all the major experiments running at the different laboratories. It will be an undoubtedly rich experience. "
 
 //restaurant:
   //- img: img/facilities/itaca.jpg
@@ -30,7 +34,7 @@ accomodation:
   - img: img/facilities/hostel_archirossi.jpg
     title: Hostel Archi Rossi
     descr: "Accomodation in Florence will be provided at the Hostel Archi Rossi, Via Faenza 94R - Firenze (FI). Terrace bar, travel desk, laundry plus only 5 minute walk from the station and the centre."
-    site: "https://www.hostelarchirossi.com/facilities"
+    site: "https://www.hostelarchirossi.com/"
     map: "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11523.236895099635!2d11.250107323803723!3d43.77681884735693!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x80a8cb33b0d85e74!2sHostel+Archi+Rossi!5e0!3m2!1sit!2sit!4v1514984873311"
 
 science:
@@ -66,6 +70,12 @@ science:
     
   - img: img/facilities/INO.jpg
     title: INO
-    descr: "The current National Institute of Optics (INO) has been working for over ninety years in the field of Optics, understood in its broadest meaning, and has updated its fields of activity in line with the huge innovations that have characterized this area over the last century."
-    site:
-    map:
+    descr: "The current National Institute of Optics (INO) is a mainstay of CNR scientific network. It has been working for over ninety years in the field of Optics, understood in its broadest meaning, and has updated its fields of activity in line with the huge innovations that have characterized this area over the last century."
+    site: "https://fed.ino.it/"
+    map: "https://www.google.com/maps/place/Istituto+Nazionale+di+Ottica+(INO)+-+CNR+-+Pisa/@43.7192589,10.4240063,15z/data=!4m5!3m4!1s0x0:0x838ddb26b28a1f99!8m2!3d43.7192589!4d10.4240063"
+    
+  -img: img/facilities/IBF.jpg
+   title: IBF
+   descr: "The Biophysics Institute (IBF) was established in May 2001, and it's an interdisciplinary Centre of National Research Council (CNR). IBF’s mission is to apply methodologies and techniques typical of the physical sciences to the study of the structure and functions of biological systems.
+   site: "http://www.pi.ibf.cnr.it/"
+   map: "https://www.google.it/maps/search/Istituto+di+Biofisica+Pisa+-+Via+G.+Moruzzi,1+pisa/@43.720381,10.424963,17z?hl=it"
