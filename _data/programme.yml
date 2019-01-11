@@ -1,7 +1,8 @@
 info: " <p> The Lights of Tuscany programme is coming to its third edition. Following last years' great success, the Italian Association of Physics Students (AISF) will be organising it once more, also including some new features and further improvements.</p>
 <p>
-During the Programme, 40 students will be visiting the European Laboratory for Nonlinear Spectroscopy, the VIRGO site of the European Gravitational Observatory and the facilities at the INFN, University of Pisa and University of Firenze in central Italy. The event will have a focus on Photonics, but a number of other topics will be touched upon, including Matter physics, Quantum Optics, Biophysics. Students will be expected to have a basic understanding of these subjects in order to effectively make the most of the programme.
-</p> "
+The event will have a focus on Photonics, but a number of other topics will be touched upon, including Matter physics, Quantum Optics, Biophysics. Students will be expected to have a basic understanding of these subjects in order to effectively make the most of the programme.
+</p>
+<p> The Programme will be constantly updated as further details are provided.</p>"
 
 
 
@@ -109,10 +110,6 @@ schedule:
 few_info:
   info: ""
   specs:
-    - text: "In order to enroll to the event you must be an IAPS member."
-      url: "#!"
-    - text: "We expect to select 40 students, of whom approximately half will be Italian."
-      url: "#!"
     - text: "Participation fees are fixed at €100  for each applicant. Such fee will cover the cost of accommodation in Pisa breakfasts at the Moderno Hotel, a buffet dinner at Pisa University, one lunch at the GSSI canteen, AISF-IAPS t-shirts.Please notice that participation fees <b>do not cover</b> the following:"
       url: "#!"
       subpoints:
@@ -122,8 +119,4 @@ few_info:
           url: "#!"
         - text: "Meals other than those officially offered in the Programme. When useful, the Organising Committee will always suggest places to eat."
           url: "#!"
-    - text: "Note: if you are Italian and you are not an IAPS/AISF member yet, no problem! Just fill in the registration forms for both AISF membership and participation to this event!"
-      url: "http://ai-sf.it/iscrizione/"
-      button: "AISF registration"
-    - text: "Please note that unfortunately we are not able to provide scholarships and/or bursaries for any students at this time."
-      url: "#!"
+   
