@@ -113,10 +113,10 @@ few_info:
       url: "#!"
     - text: "We expect to select 40 students, of whom approximately half will be Italian."
       url: "#!"
-    - text: "Participation fees are fixed at  for each applicant. Such fee will cover the cost of accommodation in Pisa breakfasts at the Moderno Hotel, a buffet dinner at Pisa University, one lunch at the GSSI canteen, AISF-IAPS t-shirts.Please notice that participation fees <b>do not cover</b> the following:"
+    - text: "Participation fees are fixed at €100  for each applicant. Such fee will cover the cost of accommodation in Pisa breakfasts at the Moderno Hotel, a buffet dinner at Pisa University, one lunch at the GSSI canteen, AISF-IAPS t-shirts.Please notice that participation fees <b>do not cover</b> the following:"
       url: "#!"
       subpoints:
-        - text: "Journeys to/from Pisa at arrival and departure. These will need to be arranged independently;"
+        - text: "Journeys to Pisa at arrival and departure from Florence. These will need to be arranged independently;"
           url: "#!"
         - text: "Insurance;"
           url: "#!"
