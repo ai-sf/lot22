@@ -27,14 +27,14 @@ accomodation:
     site: "https://www.hotelmoderno.pisa.it/en/"
     map: "https://goo.gl/maps/BuixrGsC8tQ2"
     
-  - img: img/facilities/hotel2.jpg
+  - img: img/facilities/hostel_archirossi.jpg
     title: Hostel Archi Rossi
     descr: "Accomodation in Florence will be provided at the Hostel Archi Rossi, Via Faenza 94R - Firenze (FI). Terrace bar, travel desk, laundry plus only 5 minute walk from the station and the centre."
     site: "https://www.hostelarchirossi.com/facilities"
     map: "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11523.236895099635!2d11.250107323803723!3d43.77681884735693!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x80a8cb33b0d85e74!2sHostel+Archi+Rossi!5e0!3m2!1sit!2sit!4v1514984873311"
 
 science:
-  - img: img/facilities/LoT6.jpg
+  - img: img/facilities/LENS.jpg
     title: LENS
     descr: "The European Laboratory for Non-linear Spectroscopy (LENS) is an international and interdisciplinary structure in Florence. The main research lines are atomic physics, photonics, physical chemistry and biophysics."
     site: "http://www.lens.unifi.it"
