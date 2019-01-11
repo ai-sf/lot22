@@ -11,7 +11,7 @@ selection:
   specs:
     - text: "In order to enroll to the event you must be an IAPS member."
       url: "#!"
-    - text: "40 places are available, 20 of which will be granted to AISF members. The selected candidates will have to cover a participation fee of €100"
+    - text: "40 places are available, of whom approximately half will be Italian. The selected candidates will have to cover a participation fee of €100"
     - text: "Preference will be given to students presenting abstracts (for either a talk or a poster)"
       url: "#!"         
     - text: "Note: if you are Italian and you are not an IAPS/AISF member yet you can become an AISF member while registering for this event: you need to fill in this module and make a single payment including both the quotes."
@@ -46,7 +46,7 @@ deadlines:
   specs:
     - text: "A first round of registration for the event will be open at this page between January 21 and February  10."
       url: "#!"
-    - text: "Following the registration period, we expect to email all applicants within 2 days. Payments will then be required (by bank transfer or PayPal) within 7 days of receiving an acceptance email from the organising committee."
+    - text: "Following the registration period, we expect to email all applicants within 3 days. Payments will then be required (by bank transfer or PayPal) within 7 days of receiving an acceptance email from the organising committee."
       url: "#!"
     - text: "Please notice that applicants do not need to be specialising in the field of photonics, but can be from any discipline of Physics."
       url: "#!"
