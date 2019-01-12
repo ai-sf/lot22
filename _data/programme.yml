@@ -64,18 +64,15 @@ schedule:
         
   - day: Sunday
     date: "14/04"
-    short_descr: Visit to Florence
+    short_descr: Free day in Florence
     activity:
-      - hour: "9.30"
-        descr: "Uffizi Gallery visit (Optional)"
-      - hour: "10.00 - 17.30"
-        descr: "Free day in Florence"
-      - hour: "18.00 - 19.00"
-        descr: "Train To Pisa"
-      - hour: "19.30 - 21.00"
-        descr: "Greek Dinner @ \"Itaca\" Restaurant"
-      - hour: "21.00- ..."
-        descr: "Free night in Pisa"
+      - hour: "11.00"
+        descr: "City Tour"
+      - hour: "14.30"
+        descr: "Galleria degli Uffizi (optional)"
+      - hour: "20.30"
+        descr: " Tuscanian dinner (optional)"
+     
         
   - day: Monday
     date: "15/04"
