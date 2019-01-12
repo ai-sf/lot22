@@ -14,7 +14,7 @@ schedule:
     short_descr: Arrival and Opening Ceremony in Pisa.
     activity:
       - hour: "11.00 - 15.00"
-        descr: "Check-in"
+        descr: "Check-in at Hotel Milano"
       - hour: "15.30 - 19.30"
         descr: "Opening Ceremony"
       - hour: "19.00 - 20.30"
@@ -44,22 +44,20 @@ schedule:
     date: "13/04"
     short_descr: Student Talks & Career Workshop
     activity:
-      - hour: "10.30 - 13.15"
-        descr: "Visit to Pisa University Laboratories"
-      - hour: "13.15 - 14.30"
-        descr: "Lunch"
-      - hour: "14.50 - 15.15"
-        descr: "Bus to Virgo"
-      - hour: "15.00 - 15.45"
-        descr: "Lectures at VIRGO"
-      - hour: "15.45 - 18.00"
-        descr: "Visit to the VIRGO facility"
-      - hour: "18.30 - 19.30"
-        descr: "Bus To Florence"
-      - hour: "20.00"
-        descr: "Check-in in Florence Hostel"
+      - hour: "9.30"
+        descr: "Bus to Florence"
+      - hour: "11.00"
+        descr: "check-in at Archi Rossi Hostel"
+      - hour: "12.30 - 13.30"
+        descr: "Lunch @Mineralogy Department"
+      - hour: "13.30 - 16.00"
+        descr: "Student Talks"
+      - hour: "16.00 - 16.30"
+        descr: "Coffee break"
+      - hour: "16.30 - 19.00"
+        descr: "Career Workshop"
       - hour: "20.30- .."
-        descr: "Free night in Florence"
+        descr: " Tuscanian dinner (optional)"
         
         
   - day: Sunday
@@ -71,7 +69,7 @@ schedule:
       - hour: "14.30"
         descr: "Galleria degli Uffizi (optional)"
       - hour: "20.30"
-        descr: " Tuscanian dinner (optional)"
+        descr: "Social dinner"
      
         
   - day: Monday
@@ -80,8 +78,8 @@ schedule:
     activity:
       - hour: "9.00 - 13.00"
         descr: "Visit to LENS/INO"
-      - hour: "13.00"
-        descr: "Ending Ceremony"
+      - hour: "17.00"
+        descr: "Closing Ceremony"
 
 few_info:
   info: ""
