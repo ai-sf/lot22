@@ -28,29 +28,18 @@ schedule:
     activity:
       - hour: "08.15 - 09.00"
         descr: "Bus to VIRGO"
-      - hour: "09.15 - 09.45"
-        descr: "Prof. Leonardo Fallani"
-      - hour: "09.45 - 10.15"
-        descr: "Prof. Massimo Gurioli: Engineering Light Modes"
-      - hour: "10.15 - 10.30"
-        descr: "Coffee Break"
-      - hour: "10.30-11.00"
-        descr: "Prof. Diederik Wiersma: Photonics Inspired by Nature"
-      - hour: "11.00-11.30"
-        descr: "Prof. Francesco Saverio Cataliotti: Quantum Technologies: bilocation, teleportation and other quantum marvels"
-      - hour: "11.30-11.45"
-        descr: "Thesis, PHD, Internship @Unifi and @LENS"
-      - hour: "12.00-13.15"
-        descr: "Labs Visit"
-      - hour: "13.15-14.30"
-        descr: "Lunch @LENS"
-      - hour: "14.30-18.00"
-        descr: "Labs Visit"
-        
-        
-        
-        
-        
+      - hour: "09.15 - 12.30"
+        descr: "Talks & Visit"
+      - hour: "13.00 - 14.00"
+        descr: "Lunch @SNS"
+      - hour: "14.30 - 18.30"
+        descr: "Visits NEST/INO/IBF"
+      - hour: "19.00 - 20.00"
+        descr: "Dinner @Pisa canteen"
+      - hour: "21.00 - .."
+        descr: "Free night"  
+              
+                
   - day: Saturday
     date: "13/04"
     short_descr: Student Talks & Career Workshop
