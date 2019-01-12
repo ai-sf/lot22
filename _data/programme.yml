@@ -76,8 +76,16 @@ schedule:
     date: "15/04"
     short_descr: Visits to LENS and UNIFI Laboratories
     activity:
-      - hour: "9.00 - 13.00"
-        descr: "Visit to LENS/INO"
+      - hour: "9.00 - 9.30"
+        descr: "Welcome and overview on research activities at Florence Physics University"
+      - hour: "9.30 - 11.00"
+        descr: "Introductory Talks"
+      - hour: "11.00 - 13.30"
+        descr: "Labs Tour*"
+      - hour: "13.30 - 4.30"
+        descr: "Lunch @LENS"
+      - hour: "14.30 - 17.00"
+        descr: "Labs Tour*"
       - hour: "17.00"
         descr: "Closing Ceremony"
 
