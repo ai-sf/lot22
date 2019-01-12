@@ -4,7 +4,7 @@ The event will have a focus on Photonics, but a number of other topics will be t
 </p>
 <p>
 Moreover this edition for the first time we added a "career workshop". During this session graduate students will share their working career outside of the Academia and participants will be able to meet and ask every doubt and curiosity they have to representatives 
-of local companies with international features, in order to shape or widen the opportunities that the working environment offers to a physicist.
+of local companies with international features, in order to shape or widen the opportunities that the working environment offers to a physicist.</p>
 <p> The Programme will be constantly updated as further details are provided.</p>"
 
 
@@ -14,25 +14,13 @@ schedule:
     date: "11/04"
     short_descr: Arrival and Opening Ceremony in Pisa.
     activity:
-      - hour: "10.00 - 15.00"
+      - hour: "11.00 - 15.00"
         descr: "Check-in"
-      - hour: "15.30-17.20"
-        descr: "Introduction to LoT and IAPS"
-      - hour: "17.20-17.50"
-        descr: "Prof. Andrea Macchi 'Under Light Pressure; from Solar Sails to Laser Accelerators' "
-      - hour: "17.50-18.20"
-        descr: "Prof. Alessandro Pitanti 'Optomechanics with active optical systems'"
-      - hour: "18.20-18.30"
-        descr: "Short Break"
-      - hour: "18.30-19.00"
-        descr: "Prof. Isidoro Ferrante 'The first detection of gravitational waves'"
-      - hour: "19.00-19.30"
-        descr: "Prof. Oliver Morsch 'Feynman's legacy and the second quantum revolution'"
-      - hour: "19.30-19.50"
-        descr: "ICPS 2017"
-      - hour: "19.50-21.30"
-        descr: "Italian Apericena"
-      - hour: "21.30- ..."
+      - hour: "15.30 - 19.30"
+        descr: "Opening Ceremony"
+      - hour: "19.00 - 20.30"
+        descr: "Poster Session & Apericena "
+      - hour: "21.30-.."
         descr: "Pisa by Night"
         
   - day: Friday
