@@ -49,7 +49,7 @@ schedule:
       - hour: "11.00"
         descr: "check-in at Archi Rossi Hostel"
       - hour: "12.30 - 13.30"
-        descr: "Lunch @Mineralogy Department"
+        descr: "Lunch"
       - hour: "13.30 - 16.00"
         descr: "Student Talks"
       - hour: "16.00 - 16.30"
