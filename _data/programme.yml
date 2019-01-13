@@ -14,9 +14,9 @@ schedule:
     short_descr: Arrival and Opening Ceremony in Pisa.
     activity:
       - hour: "11.00 - 15.00"
-        descr: "Check-in at Hotel Milano"
+        descr: "Check-in at Hotel Moderno"
       - hour: "15.30 - 19.30"
-        descr: "Opening Ceremony"
+        descr: "Opening Ceremony @UniPi"
       - hour: "19.00 - 20.30"
         descr: "Poster Session & Apericena "
       - hour: "21.30-.."
@@ -33,7 +33,7 @@ schedule:
       - hour: "13.00 - 14.00"
         descr: "Lunch @SNS"
       - hour: "14.30 - 18.30"
-        descr: "Visits NEST/INO/IBF"
+        descr: "Visits NEST+INFN/INO/IBF"
       - hour: "19.00 - 20.00"
         descr: "Dinner @Pisa canteen"
       - hour: "21.00 - .."
