@@ -33,7 +33,7 @@ schedule:
       - hour: "13.00 - 14.00"
         descr: "Lunch @SNS"
       - hour: "14.30 - 18.30"
-        descr: "Visits NEST+INFN/INO/IBF"
+        descr: "Visits NEST/INFN + UniPI/INO/IBF"
       - hour: "19.00 - 20.00"
         descr: "Dinner @Pisa canteen"
       - hour: "21.00 - .."
@@ -101,7 +101,7 @@ few_info:
           url: "#!"
         - text: "c) Biophysics"
           url: "#!"
-        - text: "The 3 last groups will have a mixed path"
+        - text: "The 3 last groups will have a combination of the previous topics"
     - text: "Participation fees are fixed at €100  for each applicant. Such fee will cover the cost of accommodation in Pisa breakfasts at the Moderno Hotel, a buffet dinner at Pisa University, one lunch at the GSSI canteen, AISF-IAPS t-shirts.Please notice that participation fees <b>do not cover</b> the following:"
       url: "#!"
       subpoints:
