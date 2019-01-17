@@ -51,11 +51,11 @@ schedule:
       - hour: "12.30 - 13.30"
         descr: "Lunch"
       - hour: "13.30 - 16.00"
-        descr: "Student Talks"
+        descr: "Career Workshop"
       - hour: "16.00 - 16.30"
         descr: "Coffee break"
       - hour: "16.30 - 19.00"
-        descr: "Career Workshop"
+        descr: "Student Talks"
       - hour: "20.30- .."
         descr: " Tuscanian dinner (optional)"
         
