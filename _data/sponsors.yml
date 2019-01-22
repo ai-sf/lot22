@@ -10,13 +10,16 @@
     - text: ILIL
       img: ilil_logo.jpg
       link:
-    - text: Consiglio Nazionale delle ricerche
+    - text: University of Firenze
       img: dipartimento_firenze.png
       link:
-    - text: Consiglio Nazionale delle ricerche
+    - text: NEST
       img: logo_NEST_PANTONE_RGB.jpg
       link:
-    - text: unipi
+    - text: Scuola Normale Superiore
+      img: SNS Istituzionale_oriz_PANTONE-1.png
+      link:
+    - text: University of Pisa
       img: unipi.png
       link:
     - text: LENS
