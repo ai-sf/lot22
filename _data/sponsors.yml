@@ -7,52 +7,59 @@
     - text: IAPS
       img: iaps.png
       link:
-    - text: ILIL
-      img: ilil_logo.jpg
-      link:
-    - text: University of Firenze
-      img: dipartimento_firenze.png
-      link:
-    - text: NEST
-      img: logo_NEST_PANTONE_RGB.jpg
-      link:
     - text: Scuola Normale Superiore
       img: SNS Istituzionale_oriz_PANTONE-1.png
-      link:
-    - text: University of Pisa
-      img: unipi.png
-      link:
-    - text: LENS
-      img: lens.png
-      link:
+      link:   
     - text: Phyisik Instrumente
       img: PI.jpg
       link: "https://www.physikinstrumente.com/en/"
     - text: Hamamatsu
       img: hama.jpg	
       link: "https://www.hamamatsu.com/eu/en/index.html?nfxsid=EAIaIQobChMIkMvRi9j_3wIVyeWaCh37nwIkEAAYASAAEgJLtfD_BwE&nfxsid=5c46281ee53a51548101662&gclid=EAIaIQobChMIkMvRi9j_3wIVyeWaCh37nwIkEAAYASAAEgJLtfD_BwE"
+    - text: NEST
+      img: logo_NEST_PANTONE_RGB.jpg
+      link:   
+    - text: LENS
+      img: lens.png
+      link:   
     - text: INFN
       img: infn.jpg
       link:
+    - text: INO
+      img: cnr_ino.png
+      link:
+    - text: VIRGO
+      img: virgo.png
+      link:
+    - text: Consiglio Nazionale delle ricerche
+      img: CNR.png
+      link:
+    - text: ILIL
+      img: ilil_logo.jpg
+      link:
+    - text: IBF
+      img: IBF.gif
+      link: "https://www.cnr.it/en/institute/008/institute-of-biophysics-ibf"
+
 
 
 - title: "Under the patronage of:"
   format: "m4"
   subitems:
+    - text: University of Pisa
+      img: unipi.png
+      link:
     - text: Comune di Firenze
       img: comune_firenze.jpg
       link: 
     - text: Comune di Pisa
       img: comune_pisa.png
       link: 
-    - text: Consiglio Nazionale delle ricerche
-      img: CNR.png
+    - text: University of Firenze
+      img: dipartimento_firenze.png
       link:
-    - text: INO
-      img: cnr_ino.png
-      link:
-    - text: virgo
-      img: virgo.png
-      link:
+   
+    
+   
 
 
