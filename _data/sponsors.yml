@@ -1,5 +1,5 @@
 - title: "This event wouldn't be possible without the support of our partners and sponsors:"
-  format: "m4"
+  format: "m3"
   subitems:
     - text: Società italiana di fisica
       img: SocItFisica.jpg
@@ -44,7 +44,7 @@
 
 
 - title: "Under the patronage of:"
-  format: "m4"
+  format: "m3"
   subitems:
     - text: University of Pisa
       img: unipi.png
