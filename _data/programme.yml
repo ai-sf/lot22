@@ -13,10 +13,10 @@ schedule:
     date: "11/04"
     short_descr: Arrival and Opening Ceremony in Pisa.
     activity:
-      - hour: "11.00 - 15.00"
+      - hour: "11.00 - 14.30"
         descr: "Check-in at Hotel Moderno"
-      - hour: "15.30 - 19.30"
-        descr: "Opening Ceremony @UniPi"
+      - hour: "15.00 - 19.00"
+        descr: "Opening Ceremony @INFN"
       - hour: "19.00 - 20.30"
         descr: "Poster Session & Apericena "
       - hour: "21.30-.."
