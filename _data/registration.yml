@@ -44,9 +44,9 @@ terms:
 deadlines:
   info: ""
   specs:
-    - text: "A secound round of registration for the event will be open at this page between February 11th and February 17th."
+    - text: "registrations period will end on March 1st."
       url: "#!"
-    - text: "We expect to email 1st round applicants within February 13th. Payments will then be required (by bank transfer or PayPal) within 7 days of receiving an acceptance email from the organising committee."
+    - text: "All applicants will have been emailed within March 2nd. Payments will then be required (by bank transfer or PayPal) within March 5th."
       url: "#!"
     - text: "Please notice that applicants do not need to be specialising in the field of photonics, but can be from any discipline of Physics."
       url: "#!"
