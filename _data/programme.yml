@@ -15,10 +15,12 @@ schedule:
     activity:
       - hour: "11.00 - 14.30"
         descr: "Check-in at Hotel Moderno"
-      - hour: "15.00 - 19.00"
+      - hour: "15.00 - 18.00"
         descr: "Opening Ceremony @INFN"
-      - hour: "19.00 - 20.30"
-        descr: "Poster Session & Apericena "
+      - hour: "18.00 - 19.00"
+        descr: "Poster Session with Aperitivo "
+      - hour: "20.00 - 21.30"
+        descr: "Italian dinner"
       - hour: "21.30-.."
         descr: "Pisa by Night"
         
@@ -67,7 +69,7 @@ schedule:
       - hour: "11.00"
         descr: "City Tour"
       - hour: "14.30"
-        descr: "Galleria degli Uffizi (optional)"
+        descr: "Optional visit to Galleria degli Uffizi or Villa il Gioiello"
       - hour: "20.30"
         descr: "Social dinner"
      
