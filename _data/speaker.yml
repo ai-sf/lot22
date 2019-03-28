@@ -1,6 +1,18 @@
 description: "We are happy to host professors, accademics and other prominent figures working with light and light-based technologies. Here you can find the profiles of some of them (constantly updated)."
 
 content:
+- nome: "Prof. Oliver Morsch"
+  id: morsch
+  uni: "Università degli Studi di Pisa"
+  img: "oliver_morsch.jpg"
+  title: ""
+  bio: "Oliver Morsch got his P.h.D in Physics from Oxford University. Since 2003 his research activity focuses on cold atoms at the National Institute of Optics and at University of Pisa, where he is Professor of quantum computation. <br>
+  For over 20 years his articles and papers have been published on several and he furthermore wrote three informative books."
+  abstract: ""
+  link:
+  slides: 
+
+content:
 - nome: "Prof. Alessandro Tredicucci"
   id: tredicucci
   uni: "Università degli Studi di Pisa"
@@ -12,5 +24,8 @@ content:
   abstract: ""
   link:
   slides: 
+  
+ 
+
 
 
