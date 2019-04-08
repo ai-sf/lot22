@@ -22,7 +22,7 @@ schedule:
       - hour: "20.00 - 21.30"
         descr: "Italian dinner"
       - hour: "21.30-.."
-        descr: "Pisa by Night"
+        descr: "Free Night"
         
   - day: Friday
     date: "12/04"
@@ -30,16 +30,16 @@ schedule:
     activity:
       - hour: "08.15 - 09.00"
         descr: "Bus to VIRGO"
-      - hour: "09.15 - 12.30"
+      - hour: "09.00 - 12.30"
         descr: "Talks & Visit"
-      - hour: "13.00 - 14.00"
+      - hour: "12.45 - 14.00"
         descr: "Lunch @SNS"
       - hour: "14.30 - 18.30"
         descr: "Visits NEST/INFN + UniPI/INO/IBF"
       - hour: "19.00 - 20.00"
         descr: "Dinner @Pisa canteen"
       - hour: "21.00 - .."
-        descr: "Free night"  
+        descr: "Pisa by night"  
               
                 
   - day: Saturday
