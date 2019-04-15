@@ -49,6 +49,9 @@
 - title: "Under the patronage of:"
   format: "m3"
   subitems:
+    - text: Department of Physics and Astronomy - UniFi 
+      img: dipartimento_firenze.png
+      link:
     - text: University of Pisa
       img: unipi.png
       link:
@@ -59,7 +62,7 @@
       img: comune_pisa.png
       link: 
     - text: University of Firenze
-      img: dipartimento_firenze.png
+      img: LOGO_UNIFI.jpg
       link:
    
     
