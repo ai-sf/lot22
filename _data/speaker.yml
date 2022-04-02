@@ -1,14 +1,14 @@
-description: "We are happy to host professors, academics and other prominent figures working with light and light-based technologies. Here you can find the profiles of some of them (constantly updated)."
+description: "Siamo felici di ospitare professori, accademici e altre figure di spicco che lavorano con la luce e le tecnologie basate su di essa. Qui potete trovare i profili di alcuni di loro (costantemente aggiornati) e qualche informazione sulle conferenze che ci presenteranno."
 
 content:
-- nome: "Prof. Oliver Morsch"
-  id: morsch
-  uni: "CNR/INO and Università degli Studi di Pisa"
-  img: "oliver_morsch.jpg"
-  title: "A whistle-stop tour of quantum physics and quantum technologies"
-  bio: "Oliver Morsch obtained a PhD degree from Oxford University and, since 2003, has carried out his research on cold atoms at the National
-  Institute of Optics (INO) and the University of Pisa, where he teaches Quantum Computation. For more than twenty years he has also written on
-  scientific topics for several newspapers and magazines, and he has published three popular science books."
+- nome: "Prof.ssa Donatella Ciampini"
+  id: ciampini
+  uni: "Università di Pisa"
+  img: "ciampini.jpg"
+  title: ""
+  bio: "Donatella Ciampini è professore associato di Fisica applicata presso il Dipartimento di Fisica dell'Università di Pisa dal 2016. Ha conseguito un dottorato di ricerca in Fisica presso UniPI (2002) ed è stata Guest Researcher al National Institute of Standards and Technology. <br>
+  Ha pubblicato più di 50 lavori su riviste internazionali. Un suo lavoro sui condensati di Bose-Einstein su reticoli ottici ed altre tre pubblicazioni sono stati selezionati da Word of Science come “Highly Cited Paper” in Essential Science Indicators. <br>
+  Ricerca nel campo della Fisica Atomica, Molecolare e Ottica, in particolare nel controllo quantistico della materia, ovvero la manipolazione, attraverso l’interazione radiazione/materia, di sistemi quantistici."
   abstract: ""
   link:
   slides: 
@@ -16,65 +16,27 @@ content:
 
 - nome: "Prof. Alessandro Tredicucci"
   id: tredicucci
-  uni: "Università degli Studi di Pisa"
+  uni: "Università di Pisa"
   img: "tredicucci.jpg"
-  title: "Terahertz quantum cascade lasers: what way forward?"
-  bio: "Alessandro Tredicucci is full professor of condensed matter physics at the Physics Department of Pisa University since 2014. He holds a Ph.D. in Physics from the Scuola Normale Superiore (1997), and was previously at Bell Labs, SNS, and CNR. <br>
-  He is well known for having pioneered the field of THz quantum cascade lasers and intersubband polaritons. His activity is now also focused on graphene photonics and THz optomechanics. He has co-authored more than 230 articles (h-index is 56), holds 16 international patents, and has given more than 100 conference invited talks.<br>
-  He's the recipient of several awards, among which the Occhialini Medal of the Institute of Physics / Società Italiana di Fisica and the Nick Holonyak Jr award of the Optical Society of America, of which he's also Fellow. He is presently Associate Editor of Applied Physics Letters."
+  title: ""
+  bio: "Alessandro Tredicucci è professore ordinario di Fisica della materia condensata presso il Dipartimento di Fisica dell'Università di Pisa dal 2014, presso la quale è Direttore del Centro Interdipartimentale di Ricerca in Scienza e Ingegneria dei Materiali. Ha conseguito un dottorato di ricerca in Fisica presso la Scuola Normale Superiore (1997), ed è stato in precedenza presso Bell Labs, SNS e CNR. <br>
+  È noto per aver aperto la strada al campo dei laser a cascata quantistica THz e dei polaritoni intersottobanda. La sua attività è ora focalizzata anche sulla fotonica del grafene e sull'optomeccanica THz. È coautore di oltre 290 articoli e pubblicazioni (l'h-index è 57), detiene 16 brevetti internazionali e ha tenuto più di 80 conferenze su invito. <br>
+  Ha ricevuto numerosi riconoscimenti, tra cui la Medaglia Occhialini dell'Istituto di Fisica / Società Italiana di Fisica e il premio Nick Holonyak Jr della Optical Society of America."
   abstract: ""
   link:
 
-- nome: "Prof. Leonardo Fallani"
-  id: fallani
-  uni: "Università degli Studi di Firenze & LENS"
-  img: "fallani.jpg"
-  title: "Steering quantum matter with light: an introduction to laser cooling and ultracold quantum physics"
-  bio: " Leonardo Fallani is Professor of Physics at University of Florence (Italy) and Research Associate of LENS European Laboratory 
-  for Nonlinear Spectroscopy. His research experience is in the field of experimental atomic and optical physics, in particular on the 
-  topics: laser cooling, high-precision spectroscopy, ultracold quantum gases, disordered atomic systems, many-body atomic physics.
-  At University of Florence he is leading a research group studying new approaches for quantum simulation with ultracold two-electron
-  fermions, merging many-body physics and metrological techniques of quantum control. He has been author of >60 publications on 
-  international journals and books, and invited speaker at >60 international conferences. In 2015 he was awarded with 
-  an ERC Consolidator Grant for the investigation of topological states of matter with synthetic ultracold systems."
-  abstract: 
+- nome: "Prof. Francesco Fuso"
+  id: fuso
+  uni: "Università di Pisa"
+  img: "fuso.jpg"
+  title: ""
+  bio: "Francesco Fuso è professore associato di Fisica della materia presso il Dipartimento di Fisica dell'Università di Pisa dal 2002, del quale è vicedirettore. Ha conseguito un dottorato in Fisica presso UniPI nel 1994. È membro associato dell'Istituto di Ottica (INO-CNR) e del Consorzio Nazionale Interuniversitario per le Scienze Fisiche della Materia (CNISM).<br>
+  Tra le sue pubblicazioni spiccano più di 80 articoli su riviste internazionali. Ha tenuto oltre 130 conferenze di cui più di 20 su invito. <br>
+  Nella sua attività di ricerca si è occupato, principalmente dal punto di vista sperimentale, di svariati temi di interazione laser-materia, struttura della materia, scienza dei materiali e tecnologie emergenti. Attualmente è interessato alla nano-ottica e lo sviluppo e l'uso di metodi ottici avanzati come la microscopia ottica a scansione near-field (SNOM), nonché al controllo laser della materia, in particolare per la creazione di fasci ionici prodotti da sample atomici raffreddati con laser."
+  abstract: ""
   link: 
+# slides: file.pdf
 
-
- 
-- nome: "Prof. Anna Vinattieri"
-  id: vinattieri
-  uni: "Università degli Studi di Firenze & LENS"
-  img: "vinattieri.jpg"
-  title: "Light Engineering in New Materials"
-  bio: " Anna Vinattieri is Professor of Experimental Physics at the Department of Physics and Astronomy and member of the European Laboratory of Non-linear Spectroscopy (LENS).
-Her main research activity concerns high spatial and temporal resolution optical spectroscopy of semiconductor nanostructures.
-She has more than 180 publications on international journals."
-  abstract: 
-  link: 
-  slides: vinattieri.pdf
-  
-- nome: "Prof. Giovanni Modugno"
-  id: modugno
-  uni: "Università degli Studi di Firenze"
-  img: "modugno.jpg"
-  title: "Ultracold quantum gases: a window on the physics of quantum materials"
-  bio: "Giovanni Modugno graduated cum laude from Univerity of Firenze, and obtained his PhD degree in Physics (1999) from Scuola Normale Superiore di Pisa. Since 20 years, he likes to study fundamental quantum mechanical phenomena through experiments in ultracold atomic gases,
-  at the University of Florence and at CNR in Pisa. His most recent interests focus on liquid quantum droplets and on an exotic form of matter, the supersolid."
-  abstract: 
-  link:
-  slides: modugno.pdf
-  
-- nome: "Dr. Lucia Gardini"
-  id: gardini
-  uni: "CNR INO and Università degli Studi di Firenze"
-  img: "gardini.jpg"
-  title: "Single-molecule microscopy"
-  bio: " Dr Lucia Gardini, PhD is researcher at INO- National Institute of Optics, National Research Council. She has been working in the field of microscopy and optics applied to proteins and cellular biology since 2011. She has longstanding experience in the design and fabrication of advanced microscopes, 
-  with particular application to single-molecule fluorescence imaging and super-resolution microscopy."
-  abstract: 
-  link: 
-  slides: gardini.pdf
   
 
 
