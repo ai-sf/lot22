@@ -1,5 +1,5 @@
 title: Associazione Italiana Studenti di Fisica
-descr: The Associazione Italiana Studenti di Fisica (AISF) is a non-profit organization with educational purposes that gathers together all the Italian students of physics. It was founded in Heidelberg in August 2014 and since January 2015 is a National Committee of the International Association of Physics Students (IAPS). It counts more than 1000 members and 17 Local Committees.
+descr: L'Associazione Italiana Studenti di Fisica (AISF) è un'organizzazione non a scopo di lucro con finalità didattiche che riunisce tutti gli studenti italiani di fisica. È stata fondata ad Heidelberg nell'agosto 2014 e da gennaio 2015 è un comitato nazionale dell'Associazione internazionale degli studenti di fisica (IAPS). Conta più di 1000 membri e 17 Comitati Locali.
 
 contact:
   - name: AISF
@@ -7,9 +7,14 @@ contact:
 
 connect:
   - name: Facebook
-    url: https://www.facebook.com/aisf.fisica/
+    url: "https://it-it.facebook.com/aisf.fisica/"
+    facebook: true
+  - name: Instagram
+    url: "https://www.instagram.com/aisf_fisica/"
+    instagram: true
   - name: Twitter
-    url: https://twitter.com/aisf_fisica
+    url: "https://twitter.com/aisf_fisica"
+    twitter: true
   - name: IAPS Website
     url: https://www.iaps.info/
 
