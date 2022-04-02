@@ -1,22 +1,18 @@
-banner: img/logo_lot19.svg
+banner: img/LoT2022_logo.png
 
-# msg: "Thank you for coming, we'll be back in 2019!"
+# msg: "Grazie per aver partecipato. Ci vediamo alla prossima ediione di Light of Tuscany!"
 
-who: "40 physics students, from the Italian Association of Physics Students and the International Association of Physics Students. All backgrounds and nationalities are welcome!"
+who: "40 studenti, iscritti all'Associazione Italiana Studenti di Fisica, provenienti da tutta Italia e di ogni età."
 
-when: "From the 11th to the 15th April 2019."
+when: "Dal 13 al 16 Maggio 2022, arrivi e partenze compresi."
 
-where: "In Pisa and Florence. Students will attend the opening ceremony at the University of Pisa. The next day they will visit INFN/Pisa and VIRGO laboratories. On the third day there will be the student talks and there will be a chance to attend a career workshop. On Sunday they will visit Florence and the last day they will visit LENS laboratories and University of Florence"
+where: "Tre giorni a Pisa, uno a Firenze.<br/> La cerimonia di apertura si terrà a Pisa, con conferenze e poster session. Nei giorni successivi i partecipanti visiteranno, tra gli altri, i laboratori di VIRGO e CNR, ma avranno anche l'opportunità di visitare la città di Pisa.<br/> Il lunedì invece ci sposteremo a Firenze, dove sarà possibile visitare i laboratori del LENS e il dipartimento di Fisica, dove si terrà la cerimonia di chiusura."
 
 slideshow:
   - img: img/facilities/lens.jpg
     alt: European Laboratory for Nonlinear Spectroscopy
     title: LENS
     text: European Laboratory for Nonlinear Spectroscopy
-  - img: img/nest1.jpg
-    alt: National Enterprise for nanoScience and nanoTechnology
-    title: NEST
-    text: National Enterprise for nanoScience and nanoTechnology
   - img: img/facilities/LoT5.jpg
     alt: VIRGO European Gravitational Observatory
     title: VIRGO
@@ -29,6 +25,6 @@ slideshow:
     alt: University of Florence
     title: UNIFI
     text: University of Florence
-    
 
-paragraph: "The Lights of Tuscany programme, now at its third edition, is organised by the Italian Association of Physics Students and is open to all members of the International Association of Physics Students. The event will bring 40 students to visit some of the most advanced research facilities in Europe, with a focus on Photonics and Optics and one key mission: to foster enthusiasm in the minds of young physicists."
+
+paragraph: "Benvenuti alla quarta edizione di Light of Tuscany!<br/> Quest'evento porterà 40 studenti membri dell'Associazione Italiana Studenti di Fisica a visitare alcuni dei centri di ricerca più all'avanguardia d'Europa, conoscendo le ultime novità nei campi di Ottica e Fotonica, nonché le loro applicazioni, raccontate direttamente da chi vi partecipa."

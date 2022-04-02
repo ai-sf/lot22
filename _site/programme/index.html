@@ -3,8 +3,8 @@
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0"/>
-    <link rel="shortcut icon" type="image/x-icon" href="http://ai-sf.it/lot19/favicon.ico">
-    <title>LOT2019 - Programme</title>
+    <link rel="shortcut icon" type="image/x-icon" href="http://localhost:4000/favicon.ico">
+    <title>LOT2022 - Programme</title>
 
 <!-- Standard html meta tags -->
     
@@ -21,7 +21,7 @@
 <!-- og -->
     <meta property="og:title" content="Programme">
 <meta property="og:type" content="website">
-<meta property="og:url" content="http://ai-sf.it/lot19/programme/">
+<meta property="og:url" content="http://localhost:4000/programme/">
 
 <meta property="og:description" content="  General Info      {{ site.data.programme.info }}    Schedule                  {% for item in site.data.programme.schedule %}                               ...">
 <meta property="og:site_name" content="">
@@ -44,10 +44,12 @@
 <!-- CSS  -->
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link rel="stylesheet prefetch" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css">
-    <link href="http://ai-sf.it/lot19/css/main.css" type="text/css" rel="stylesheet" media="screen"/>
+    <link href="http://localhost:4000/css/main.css" type="text/css" rel="stylesheet" media="screen"/>
 </head>
 
   <body>
+    
+
     
 
     
@@ -64,7 +66,7 @@
 <nav class="custom1" role="navigation">
     <div class="nav-wrapper container">
         <a href="#" data-activates="nav-mobile" class="button-collapse hide-on-large-only"><i class="material-icons">menu</i></a>
-        <a id="logo-container" href="http://ai-sf.it/lot19/index.html" class="brand-logo">LOT2019</a>
+        <a id="logo-container" href="http://localhost:4000/index.html" class="brand-logo">LOT2022</a>
 
         <ul class="right hide-on-med-and-down">
           
@@ -72,11 +74,11 @@
             <li>
                 <a 
                    
-                     href="http://ai-sf.it/lot19/facilities"
+                     href="http://localhost:4000/facilities"
                    
                    >
                     
-                        Facilities
+                        Strutture
                     
                 </a>
             </li>
@@ -86,11 +88,11 @@
             <li>
                 <a 
                    
-                     href="http://ai-sf.it/lot19/programme"
+                     href="http://localhost:4000/programme"
                    
                    >
                     
-                        Programme
+                        Programma
                     
                 </a>
             </li>
@@ -100,11 +102,11 @@
             <li>
                 <a 
                    
-                     href="http://ai-sf.it/lot19/registration"
+                     href="http://localhost:4000/speaker"
                    
                    >
                     
-                        Registration
+                        Speakers
                     
                 </a>
             </li>
@@ -114,7 +116,21 @@
             <li>
                 <a 
                    
-                     href="http://ai-sf.it/lot19/sponsors"
+                     href="http://localhost:4000/registration"
+                   
+                   >
+                    
+                        Iscrizione
+                    
+                </a>
+            </li>
+            
+        
+          
+            <li>
+                <a 
+                   
+                     href="http://localhost:4000/sponsors"
                    
                    >
                     
@@ -128,7 +144,7 @@
             <li>
                 <a 
                    
-                     href="http://www.ai-sf.it"
+                     href="http://localhost:4000/https://www.ai-sf.it"
                    
                    >
                     
@@ -141,16 +157,16 @@
         </ul>
 
         <ul id="nav-mobile" class="side-nav">
-            <li class="logo"><a id="mobile-logo-container" href="http://ai-sf.it/lot19"><object id="front-page-logo" type="image/png" style="height:64px" data="http://ai-sf.it/lot19/img/logo_abbreviato_LOT.png">Your browser does not support PNG</object></a></li>
+            <li class="logo"><a id="mobile-logo-container" href="http://localhost:4000"><object id="front-page-logo" type="image/png" style="height:64px" data="http://localhost:4000/img/logo_abbreviato_LOT.png">Your browser does not support PNG</object></a></li>
             
                 
                 <li><a 
                    
-                     href="http://ai-sf.it/lot19/facilities"
+                     href="http://localhost:4000/facilities"
                    
                    >
                   
-                  Facilities
+                  Strutture
                   
                 </a></li>
                 
@@ -158,11 +174,11 @@
                 
                 <li><a 
                    
-                     href="http://ai-sf.it/lot19/programme"
+                     href="http://localhost:4000/programme"
                    
                    >
                   
-                  Programme
+                  Programma
                   
                 </a></li>
                 
@@ -170,11 +186,11 @@
                 
                 <li><a 
                    
-                     href="http://ai-sf.it/lot19/registration"
+                     href="http://localhost:4000/speaker"
                    
                    >
                   
-                  Registration
+                  Speakers
                   
                 </a></li>
                 
@@ -182,7 +198,19 @@
                 
                 <li><a 
                    
-                     href="http://ai-sf.it/lot19/sponsors"
+                     href="http://localhost:4000/registration"
+                   
+                   >
+                  
+                  Iscrizione
+                  
+                </a></li>
+                
+            
+                
+                <li><a 
+                   
+                     href="http://localhost:4000/sponsors"
                    
                    >
                   
@@ -194,7 +222,7 @@
                 
                 <li><a 
                    
-                     href="http://www.ai-sf.it"
+                     href="http://localhost:4000/https://www.ai-sf.it"
                    
                    >
                   
@@ -243,23 +271,28 @@
                 </tr>
               
                 <tr>
-                  <td>11.00 - 15.00</td>
+                  <td>11.00 - 14.30</td>
                   <td>Check-in at Hotel Moderno</td>
                 </tr>
               
                 <tr>
-                  <td>15.30 - 19.30</td>
-                  <td>Opening Ceremony @UniPi</td>
+                  <td>15.00 - 18.00</td>
+                  <td>Opening Ceremony @INFN</td>
                 </tr>
               
                 <tr>
-                  <td>19.00 - 20.30</td>
-                  <td>Poster Session & Apericena </td>
+                  <td>18.00 - 19.00</td>
+                  <td>Poster Session with Aperitivo </td>
+                </tr>
+              
+                <tr>
+                  <td>20.00 - 21.30</td>
+                  <td>Italian dinner</td>
                 </tr>
               
                 <tr>
                   <td>21.30-..</td>
-                  <td>Pisa by Night</td>
+                  <td>Free Night</td>
                 </tr>
               
               </tbody>
@@ -286,12 +319,12 @@
                 </tr>
               
                 <tr>
-                  <td>09.15 - 12.30</td>
+                  <td>09.00 - 12.30</td>
                   <td>Talks & Visit</td>
                 </tr>
               
                 <tr>
-                  <td>13.00 - 14.00</td>
+                  <td>12.45 - 14.00</td>
                   <td>Lunch @SNS</td>
                 </tr>
               
@@ -307,7 +340,7 @@
               
                 <tr>
                   <td>21.00 - ..</td>
-                  <td>Free night</td>
+                  <td>Pisa by night</td>
                 </tr>
               
               </tbody>
@@ -329,38 +362,53 @@
                 </tr>
               
                 <tr>
-                  <td>9.30</td>
-                  <td>Bus to Florence</td>
+                  <td>8.30 - 10.00</td>
+                  <td>Train to Florence</td>
                 </tr>
               
                 <tr>
-                  <td>11.00</td>
-                  <td>check-in at Archi Rossi Hostel</td>
+                  <td>10.00 - 11.00</td>
+                  <td>Check-in at the Hostel and moving to Palazzo Nonfinito</td>
                 </tr>
               
                 <tr>
-                  <td>12.30 - 13.30</td>
-                  <td>Lunch</td>
-                </tr>
-              
-                <tr>
-                  <td>13.30 - 16.00</td>
-                  <td>Career Workshop</td>
-                </tr>
-              
-                <tr>
-                  <td>16.00 - 16.30</td>
-                  <td>Coffee break</td>
-                </tr>
-              
-                <tr>
-                  <td>16.30 - 19.00</td>
+                  <td>11.00 - 12.30</td>
                   <td>Student Talks</td>
                 </tr>
               
                 <tr>
-                  <td>20.30- ..</td>
-                  <td> Tuscanian dinner (optional)</td>
+                  <td>12.30 - 14.30</td>
+                  <td>Lunch</td>
+                </tr>
+              
+                <tr>
+                  <td>14.00 - 14.30</td>
+                  <td>Talk by UniFi Job Placement</td>
+                </tr>
+              
+                <tr>
+                  <td>14.30 - 15.00</td>
+                  <td>Talk by Light4Tech</td>
+                </tr>
+              
+                <tr>
+                  <td>15.00 - 15.30</td>
+                  <td>Talk by Laser Optronic</td>
+                </tr>
+              
+                <tr>
+                  <td>15.30 - 16.00</td>
+                  <td>Talk by CNR Research Area</td>
+                </tr>
+              
+                <tr>
+                  <td>16.00 - 17.00</td>
+                  <td>Networking</td>
+                </tr>
+              
+                <tr>
+                  <td>20.00- ..</td>
+                  <td>Tuscanian dinner</td>
                 </tr>
               
               </tbody>
@@ -388,7 +436,7 @@
               
                 <tr>
                   <td>14.30</td>
-                  <td>Galleria degli Uffizi (optional)</td>
+                  <td>Optional visit to Galleria degli Uffizi or Villa il Gioiello</td>
                 </tr>
               
                 <tr>
@@ -461,7 +509,7 @@
   
     <a
       
-         href="http://ai-sf.it/lot19/#!"
+         href="http://localhost:4000/#!"
       
       class="collection-item black-text">
       * On the last day during the visit to the Laboratories, participants will be devided in 6 subgroups, each characterized by a different focus: 
@@ -470,7 +518,7 @@
     
       <a
         
-           href="http://ai-sf.it/lot19/#!"
+           href="http://localhost:4000/#!"
         
         class="collection-item black-text custom1 lighten-5">
         a) Ultracold atoms
@@ -479,7 +527,7 @@
     
       <a
         
-           href="http://ai-sf.it/lot19/#!"
+           href="http://localhost:4000/#!"
         
         class="collection-item black-text custom1 lighten-5">
         b) Solid State Photonics
@@ -488,7 +536,7 @@
     
       <a
         
-           href="http://ai-sf.it/lot19/#!"
+           href="http://localhost:4000/#!"
         
         class="collection-item black-text custom1 lighten-5">
         c) Biophysics
@@ -497,7 +545,7 @@
     
       <a
         
-           href="http://ai-sf.it/lot19/"
+           href="http://localhost:4000/"
         
         class="collection-item black-text custom1 lighten-5">
         The 3 last groups will have a combination of the previous topics
@@ -507,7 +555,7 @@
   
     <a
       
-         href="http://ai-sf.it/lot19/#!"
+         href="http://localhost:4000/#!"
       
       class="collection-item black-text">
       Participation fees are fixed at €100  for each applicant. Such fee will cover the cost of accommodation in Pisa breakfasts at the Moderno Hotel, a buffet dinner at Pisa University, one lunch at the GSSI canteen, AISF-IAPS t-shirts.Please notice that participation fees <b>do not cover</b> the following:
@@ -516,7 +564,7 @@
     
       <a
         
-           href="http://ai-sf.it/lot19/#!"
+           href="http://localhost:4000/#!"
         
         class="collection-item black-text custom1 lighten-5">
         Journeys to Pisa at arrival and departure from Florence. These will need to be arranged independently;
@@ -525,7 +573,7 @@
     
       <a
         
-           href="http://ai-sf.it/lot19/#!"
+           href="http://localhost:4000/#!"
         
         class="collection-item black-text custom1 lighten-5">
         Insurance;
@@ -534,7 +582,7 @@
     
       <a
         
-           href="http://ai-sf.it/lot19/#!"
+           href="http://localhost:4000/#!"
         
         class="collection-item black-text custom1 lighten-5">
         Meals other than those officially offered in the Programme. When useful, the Organising Committee will always suggest places to eat.
@@ -562,8 +610,6 @@
         <ul>
         
       	  <li><a class="white-text" href="mailto:esecutivo@ai-sf.it">AISF</a></li>
-        
-      	  <li><a class="white-text" href="mailto:lot2019@ai-sf.it">LOT19</a></li>
         
         </ul>
       </div>
@@ -596,7 +642,12 @@
         ,
         
       
-        <a class="white-text text-accent-3" href="mailto:giovanni.stagnitto@ai-sf.i">Giovanni Stagnitto</a>
+        <a class="white-text text-accent-3" href="mailto:giovanni.stagnitto@ai-sf.it">Giovanni Stagnitto</a>
+        
+        ,
+        
+      
+        <a class="white-text text-accent-3" href="mailto:damiano.lucarelli.ld@gmail.com">Damiano Lucarelli</a>
         
         .
         

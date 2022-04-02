@@ -3,8 +3,8 @@
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0"/>
-    <link rel="shortcut icon" type="image/x-icon" href="http://ai-sf.it/lot19/favicon.ico">
-    <title>LOT2019 - Sponsors & Partners</title>
+    <link rel="shortcut icon" type="image/x-icon" href="http://localhost:4000/favicon.ico">
+    <title>LOT2022 - Sponsors & Partners</title>
 
 <!-- Standard html meta tags -->
     
@@ -21,7 +21,7 @@
 <!-- og -->
     <meta property="og:title" content="Sponsors & Partners">
 <meta property="og:type" content="website">
-<meta property="og:url" content="http://ai-sf.it/lot19/sponsors/">
+<meta property="og:url" content="http://localhost:4000/sponsors/">
 
 <meta property="og:description" content="{% for sezione in site.data.sponsors %}{{ sezione.title}}  {% for item in sezione.subitems %}            {% if item.img != nihil %}		      	            {% en...">
 <meta property="og:site_name" content="">
@@ -44,10 +44,12 @@
 <!-- CSS  -->
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link rel="stylesheet prefetch" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css">
-    <link href="http://ai-sf.it/lot19/css/main.css" type="text/css" rel="stylesheet" media="screen"/>
+    <link href="http://localhost:4000/css/main.css" type="text/css" rel="stylesheet" media="screen"/>
 </head>
 
   <body>
+    
+
     
 
     
@@ -64,7 +66,7 @@
 <nav class="custom1" role="navigation">
     <div class="nav-wrapper container">
         <a href="#" data-activates="nav-mobile" class="button-collapse hide-on-large-only"><i class="material-icons">menu</i></a>
-        <a id="logo-container" href="http://ai-sf.it/lot19/index.html" class="brand-logo">LOT2019</a>
+        <a id="logo-container" href="http://localhost:4000/index.html" class="brand-logo">LOT2022</a>
 
         <ul class="right hide-on-med-and-down">
           
@@ -72,11 +74,11 @@
             <li>
                 <a 
                    
-                     href="http://ai-sf.it/lot19/facilities"
+                     href="http://localhost:4000/facilities"
                    
                    >
                     
-                        Facilities
+                        Strutture
                     
                 </a>
             </li>
@@ -86,11 +88,11 @@
             <li>
                 <a 
                    
-                     href="http://ai-sf.it/lot19/programme"
+                     href="http://localhost:4000/programme"
                    
                    >
                     
-                        Programme
+                        Programma
                     
                 </a>
             </li>
@@ -100,11 +102,11 @@
             <li>
                 <a 
                    
-                     href="http://ai-sf.it/lot19/registration"
+                     href="http://localhost:4000/speaker"
                    
                    >
                     
-                        Registration
+                        Speakers
                     
                 </a>
             </li>
@@ -114,7 +116,21 @@
             <li>
                 <a 
                    
-                     href="http://ai-sf.it/lot19/sponsors"
+                     href="http://localhost:4000/registration"
+                   
+                   >
+                    
+                        Iscrizione
+                    
+                </a>
+            </li>
+            
+        
+          
+            <li>
+                <a 
+                   
+                     href="http://localhost:4000/sponsors"
                    
                    >
                     
@@ -128,7 +144,7 @@
             <li>
                 <a 
                    
-                     href="http://www.ai-sf.it"
+                     href="http://localhost:4000/https://www.ai-sf.it"
                    
                    >
                     
@@ -141,16 +157,16 @@
         </ul>
 
         <ul id="nav-mobile" class="side-nav">
-            <li class="logo"><a id="mobile-logo-container" href="http://ai-sf.it/lot19"><object id="front-page-logo" type="image/png" style="height:64px" data="http://ai-sf.it/lot19/img/logo_abbreviato_LOT.png">Your browser does not support PNG</object></a></li>
+            <li class="logo"><a id="mobile-logo-container" href="http://localhost:4000"><object id="front-page-logo" type="image/png" style="height:64px" data="http://localhost:4000/img/logo_abbreviato_LOT.png">Your browser does not support PNG</object></a></li>
             
                 
                 <li><a 
                    
-                     href="http://ai-sf.it/lot19/facilities"
+                     href="http://localhost:4000/facilities"
                    
                    >
                   
-                  Facilities
+                  Strutture
                   
                 </a></li>
                 
@@ -158,11 +174,11 @@
                 
                 <li><a 
                    
-                     href="http://ai-sf.it/lot19/programme"
+                     href="http://localhost:4000/programme"
                    
                    >
                   
-                  Programme
+                  Programma
                   
                 </a></li>
                 
@@ -170,11 +186,11 @@
                 
                 <li><a 
                    
-                     href="http://ai-sf.it/lot19/registration"
+                     href="http://localhost:4000/speaker"
                    
                    >
                   
-                  Registration
+                  Speakers
                   
                 </a></li>
                 
@@ -182,7 +198,19 @@
                 
                 <li><a 
                    
-                     href="http://ai-sf.it/lot19/sponsors"
+                     href="http://localhost:4000/registration"
+                   
+                   >
+                  
+                  Iscrizione
+                  
+                </a></li>
+                
+            
+                
+                <li><a 
+                   
+                     href="http://localhost:4000/sponsors"
                    
                    >
                   
@@ -194,7 +222,7 @@
                 
                 <li><a 
                    
-                     href="http://www.ai-sf.it"
+                     href="http://localhost:4000/https://www.ai-sf.it"
                    
                    >
                   
@@ -223,7 +251,7 @@
     <div class="card">
       		
       <div class="card-image" >
-	<img src="http://ai-sf.it/lot19/img/sponsors/SocItFisica.jpg">
+	<img src="http://localhost:4000/img/sponsors/SocItFisica.jpg">
       </div>
       
       <div class="card-content">
@@ -237,7 +265,7 @@
     <div class="card">
       		
       <div class="card-image" >
-	<img src="http://ai-sf.it/lot19/img/sponsors/iaps.png">
+	<img src="http://localhost:4000/img/sponsors/iaps.png">
       </div>
       
       <div class="card-content">
@@ -251,7 +279,7 @@
     <div class="card">
       		
       <div class="card-image" >
-	<img src="http://ai-sf.it/lot19/img/sponsors/SNS Istituzionale_oriz_PANTONE-1.png">
+	<img src="http://localhost:4000/img/sponsors/SNS Istituzionale_oriz_PANTONE-1.png">
       </div>
       
       <div class="card-content">
@@ -265,7 +293,7 @@
     <div class="card">
       		
       <div class="card-image" >
-	<img src="http://ai-sf.it/lot19/img/sponsors/PI.jpg">
+	<img src="http://localhost:4000/img/sponsors/PI.jpg">
       </div>
       
       <div class="card-content">
@@ -273,7 +301,7 @@
       </div>
       
       <div class="card-action">
-        <a href="https://www.physikinstrumente.com/en/" target="_blank">WEBSITE</a>
+        <a href="http://www.pionline.it/" target="_blank">WEBSITE</a>
       </div>
       
     </div>
@@ -283,7 +311,7 @@
     <div class="card">
       		
       <div class="card-image" >
-	<img src="http://ai-sf.it/lot19/img/sponsors/hama.jpg">
+	<img src="http://localhost:4000/img/sponsors/hama.jpg">
       </div>
       
       <div class="card-content">
@@ -301,11 +329,15 @@
     <div class="card">
       		
       <div class="card-image" >
-	<img src="http://ai-sf.it/lot19/img/sponsors/logo_NEST_PANTONE_RGB.jpg">
+	<img src="http://localhost:4000/img/sponsors/L4t.png">
       </div>
       
       <div class="card-content">
-        <p style='font-size: large'>NEST</p>
+        <p style='font-size: large'>Light4Tech</p>
+      </div>
+      
+      <div class="card-action">
+        <a href="http://www.l4t.it/en/home-2/" target="_blank">WEBSITE</a>
       </div>
       
     </div>
@@ -315,7 +347,25 @@
     <div class="card">
       		
       <div class="card-image" >
-	<img src="http://ai-sf.it/lot19/img/sponsors/lens.png">
+	<img src="http://localhost:4000/img/sponsors/logo_NEST_PANTONE_RGB.jpg">
+      </div>
+      
+      <div class="card-content">
+        <p style='font-size: large'>NEST</p>
+      </div>
+      
+      <div class="card-action">
+        <a href="http://www.laboratorionest.it/" target="_blank">WEBSITE</a>
+      </div>
+      
+    </div>
+  </div>
+  
+  <div class="col m3">
+    <div class="card">
+      		
+      <div class="card-image" >
+	<img src="http://localhost:4000/img/sponsors/lens.png">
       </div>
       
       <div class="card-content">
@@ -329,7 +379,7 @@
     <div class="card">
       		
       <div class="card-image" >
-	<img src="http://ai-sf.it/lot19/img/sponsors/infn.jpg">
+	<img src="http://localhost:4000/img/sponsors/infn.jpg">
       </div>
       
       <div class="card-content">
@@ -343,7 +393,7 @@
     <div class="card">
       		
       <div class="card-image" >
-	<img src="http://ai-sf.it/lot19/img/sponsors/cnr_ino.png">
+	<img src="http://localhost:4000/img/sponsors/cnr_ino.png">
       </div>
       
       <div class="card-content">
@@ -357,7 +407,7 @@
     <div class="card">
       		
       <div class="card-image" >
-	<img src="http://ai-sf.it/lot19/img/sponsors/virgo.png">
+	<img src="http://localhost:4000/img/sponsors/virgo.png">
       </div>
       
       <div class="card-content">
@@ -371,7 +421,7 @@
     <div class="card">
       		
       <div class="card-image" >
-	<img src="http://ai-sf.it/lot19/img/sponsors/CNR.png">
+	<img src="http://localhost:4000/img/sponsors/CNR.png">
       </div>
       
       <div class="card-content">
@@ -385,7 +435,7 @@
     <div class="card">
       		
       <div class="card-image" >
-	<img src="http://ai-sf.it/lot19/img/sponsors/ilil_logo.jpg">
+	<img src="http://localhost:4000/img/sponsors/ilil_logo.jpg">
       </div>
       
       <div class="card-content">
@@ -399,7 +449,7 @@
     <div class="card">
       		
       <div class="card-image" >
-	<img src="http://ai-sf.it/lot19/img/sponsors/IBF.jpg">
+	<img src="http://localhost:4000/img/sponsors/IBF.jpg">
       </div>
       
       <div class="card-content">
@@ -423,7 +473,21 @@
     <div class="card">
       		
       <div class="card-image" >
-	<img src="http://ai-sf.it/lot19/img/sponsors/unipi.png">
+	<img src="http://localhost:4000/img/sponsors/dipartimento_firenze.png">
+      </div>
+      
+      <div class="card-content">
+        <p style='font-size: large'>Department of Physics and Astronomy - UniFi</p>
+      </div>
+      
+    </div>
+  </div>
+  
+  <div class="col m3">
+    <div class="card">
+      		
+      <div class="card-image" >
+	<img src="http://localhost:4000/img/sponsors/unipi.png">
       </div>
       
       <div class="card-content">
@@ -437,7 +501,7 @@
     <div class="card">
       		
       <div class="card-image" >
-	<img src="http://ai-sf.it/lot19/img/sponsors/comune_firenze.jpg">
+	<img src="http://localhost:4000/img/sponsors/comune_firenze.jpg">
       </div>
       
       <div class="card-content">
@@ -451,7 +515,7 @@
     <div class="card">
       		
       <div class="card-image" >
-	<img src="http://ai-sf.it/lot19/img/sponsors/comune_pisa.png">
+	<img src="http://localhost:4000/img/sponsors/comune_pisa.png">
       </div>
       
       <div class="card-content">
@@ -465,7 +529,7 @@
     <div class="card">
       		
       <div class="card-image" >
-	<img src="http://ai-sf.it/lot19/img/sponsors/dipartimento_firenze.png">
+	<img src="http://localhost:4000/img/sponsors/LOGO_UNIFI.jpg">
       </div>
       
       <div class="card-content">
@@ -509,8 +573,6 @@
         
       	  <li><a class="white-text" href="mailto:esecutivo@ai-sf.it">AISF</a></li>
         
-      	  <li><a class="white-text" href="mailto:lot2019@ai-sf.it">LOT19</a></li>
-        
         </ul>
       </div>
       <div class="col l3 m6 s6">
@@ -542,7 +604,12 @@
         ,
         
       
-        <a class="white-text text-accent-3" href="mailto:giovanni.stagnitto@ai-sf.i">Giovanni Stagnitto</a>
+        <a class="white-text text-accent-3" href="mailto:giovanni.stagnitto@ai-sf.it">Giovanni Stagnitto</a>
+        
+        ,
+        
+      
+        <a class="white-text text-accent-3" href="mailto:damiano.lucarelli.ld@gmail.com">Damiano Lucarelli</a>
         
         .
         

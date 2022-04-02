@@ -4,8 +4,6 @@ descr: The Associazione Italiana Studenti di Fisica (AISF) is a non-profit organ
 contact:
   - name: AISF
     mail: esecutivo@ai-sf.it
-  - name: LOT19
-    mail: lot2019@ai-sf.it
 
 connect:
   - name: Facebook
@@ -19,4 +17,6 @@ creator:
   - name: Elisa Garabello
     mail: elisa.garabello@ai-sf.it
   - name: Giovanni Stagnitto
-    mail: giovanni.stagnitto@ai-sf.i  
+    mail: giovanni.stagnitto@ai-sf.it
+  - name: Damiano Lucarelli
+    mail: damiano.lucarelli.ld@gmail.com
