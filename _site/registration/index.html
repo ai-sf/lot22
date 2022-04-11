@@ -8,7 +8,7 @@
 
 <!-- Standard html meta tags -->
     
-    <meta name="description" content="    Le iscrizioni sono ancora chiuse. Per informazioni sulla loro apertura controlla i canali social AISF.                " />
+    <meta name="description" content="  Informazioni Generali      {{ site.data.registration.info }}  {% if site.data.registration.posters? %}      Posters e Talks          {{ site.data.registrat..." />
     <meta name="keywords" content="aisf associazione italiana studenti di fisica iaps" />
     <meta property="og:image" content="">
     <!--
@@ -23,7 +23,7 @@
 <meta property="og:type" content="website">
 <meta property="og:url" content="http://localhost:4000/registration/">
 
-<meta property="og:description" content="    Le iscrizioni sono ancora chiuse. Per informazioni sulla loro apertura controlla i canali social AISF.                ">
+<meta property="og:description" content="  Informazioni Generali      {{ site.data.registration.info }}  {% if site.data.registration.posters? %}      Posters e Talks          {{ site.data.registrat...">
 <meta property="og:site_name" content="">
 <meta property="og:locale" content="it">
 
@@ -34,7 +34,7 @@
 <meta name="twitter:card"           content="summary" />
 <meta name="twitter:site"           content="@aisf_fisica" />
 <meta name="twitter:title"          content="Iscrizione" />
-<meta name="twitter:description"    content="    Le iscrizioni sono ancora chiuse. Per informazioni sulla loro apertura controlla i canali social AISF.                "/>
+<meta name="twitter:description"    content="  Informazioni Generali      {{ site.data.registration.info }}  {% if site.data.registration.posters? %}      Posters e Talks          {{ site.data.registrat..."/>
 <!-- <meta name="twitter:image:alt"      content=""> Name of image for visually impaired. Will need to add this to all images -->
 
 
@@ -243,42 +243,35 @@
       </header>
 
       <article class="post-content">
-        <div class="row center">
-    <h2>Le iscrizioni sono ancora chiuse. <br>Per informazioni sulla loro apertura controlla i canali social AISF.</h2>
-       
-        </div>
-
-<!-- <div class="section">
-  <h2>General Info</h2>
+        <div class="section">
+  <h2>Informazioni Generali</h2>
   <p>
-    You can find the registration form at the bottom of this page. </p><p> Before you fill it, please read the terms and conditions below. Please note that, upon registration, you will be asked for personal details (such as name, surname, date of birth, university affiliation, passport number etc.) and a note to describe your motivation to take part in the event. We recommend that you take this element of the selection very seriously, as it will be taken into consideration when selecting applicants.
+    Puoi trovare il modulo di iscrizione in fondo a questa pagina. </p><p> Prima di compilarlo, leggi i termini e le condizioni di seguito. Ti ricordiamo che, al momento dell'iscrizione, ti verranno richiesti dati anagrafici (quali nome, cognome, data di nascita, affiliazione universitaria, documento di identità, ecc.) e una nota per descrivere la tua motivazione a partecipare all'evento.
   </p>
 </div>
 
 
   <div class="section">
-    <h2>Posters and Talks</h2>
+    <h2>Posters e Talks</h2>
     <p>
-      A set of student talks be held at Firenze and a poster session will take place at INFN section of Pisa. Students of all levels and specialisations are invited to apply to present their research work, whether this is part of a thesis project (at bachelor, master or PhD level) or is an outcome of a summer research programme
+      Durante la terza giornata di attività si terrà a Pisa una serie di brevi talk degli studenti e durante la cerimonia di apertura sarà organizzata una poster session. Gli studenti di tutti i livelli e specializzazioni sono invitati a presentare domanda per presentare il proprio lavoro di ricerca, sia esso parte di un progetto di tesi (a livello di laurea, master o dottorato di ricerca) o il risultato di un programma di ricerca estivo
     </p>
   </div>
- -->
 
-<!--
- <script type="text/javascript" src="https://form.jotformeu.com/jsform/63072883238360"></script> 
--->
 
-<!-- <div class="section">
-  <h2>Info about the selection</h2>
+<div class="section">
+  <h2>Partecipanti</h2>
   <p><p>
   <div class="collection">
   
     <a
       
-         href="http://localhost:4000/#!"
+         href="http://ai-sf.it/iscrizione"
       
       class="collection-item black-text">
-      In order to enroll to the event you must be an IAPS member.
+      Per partecipare all'evento devi essere iscritto ad AISF. Se non lo sei puoi iscriverti anche adesso.
+      
+        <span class="badge custom1 white-text">Form</span>
       
     </a>
     
@@ -288,7 +281,7 @@
          href="http://localhost:4000/"
       
       class="collection-item black-text">
-      40 places are available, of whom approximately half will be Italian. The selected candidates will have to cover a participation fee of €100
+      Sono disponibili 40 posti. I candidati selezionati dovranno pagare una quota di partecipazione di massimo € 100 (cifra che non verrà chiesta subito e destinata a scendere nei prossimi giorni grazie agli sponsor)
       
         <span class="badge custom1 white-text"></span>
       
@@ -297,32 +290,24 @@
   
     <a
       
-         href="http://localhost:4000/#!"
+         href="http://localhost:4000/"
       
       class="collection-item black-text">
-      Preference will be given to students presenting abstracts (for either a talk or a poster)
+      Verrà data preferenza agli studenti che presenteranno abstract (per un talk o un poster)
+      
+        <span class="badge custom1 white-text"></span>
       
     </a>
     
   
     <a
       
-         href="http://ai-sf.it/iscrizione"
+         href="http://localhost:4000/"
       
       class="collection-item black-text">
-      Note: if you are Italian and you are not an IAPS/AISF member yet you can become an AISF member while registering for this event: you need to fill in this module and after being selected make a single payment including both the quotes. Being an AISF member you also get the membership to IAPS 
+      Si prega di notare che sfortunatamente non possiamo fornire borse di studio e/o finanziamenti per nessuno studente al momento.
       
-        <span class="badge custom1 white-text">Form</span>
-      
-    </a>
-    
-  
-    <a
-      
-         href="http://localhost:4000/#!"
-      
-      class="collection-item black-text">
-      Please note that unfortunately we are not able to provide scholarships and/or bursaries for any students at this time.
+        <span class="badge custom1 white-text"></span>
       
     </a>
     
@@ -332,8 +317,8 @@
 
 
 <div class="section">
-  <h2>Terms and conditions</h2>
-  <p>Before you subscribe to the event, please read carefully and take note of the following:<p>
+  <h2>Termini e Condizioni</h2>
+  <p>Prima di iscriverti all'evento, leggi attentamente e prendi nota di quanto segue:<p>
   <div class="collection">
   
     <a
@@ -341,7 +326,7 @@
          href="http://localhost:4000/#!"
       
       class="collection-item black-text">
-      All personal data will be handled confidentially. It will not be forwarded to any third parties except where necessary for the purpose of the conference. Please keep in mind that we will forward some of the information in your registration form to the universities and research centres involved. We will also send your name and university to the board of the national/local committees of IAPS to check your IAPS membership.
+      Tutti i dati personali saranno trattati con riservatezza. Non verranno inoltrati a terzi salvo ove necessario ai fini dell'evento. Tieni presente che inoltreremo alcune delle informazioni contenute nel modulo di registrazione alle università e ai centri di ricerca coinvolti, nonché agli hotel per organizzare le sistemazioni.
       
     </a>
     
@@ -351,7 +336,7 @@
          href="http://localhost:4000/#!"
       
       class="collection-item black-text">
-      Only students enrolled in a university or similar institution on a physics or physics-related course, as well as up to twelve months after receiving a degree from a university are able to participate in this event. You confirm that you will be at least 18 years of age by 11th of April, 2019.
+      Possono partecipare a questo evento solo gli studenti iscritti a un'università o istituto simile a un corso di fisica o attinente alla fisica, nonché fino a dodici mesi dopo aver conseguito la laurea in un'università. Confermi che avrai almeno 18 anni di età entro il 13 Maggio 2022.
       
     </a>
     
@@ -361,17 +346,17 @@
          href="http://localhost:4000/#!"
       
       class="collection-item black-text">
-      You acknowledge and agree that the organizing committee and the hosts of the event have no responsibility whatsoever for injuries, losses, or damages of any kind that result from your participation in the Lights of Tuscany 2019 programme.
+      Riconosci e accetti che il comitato organizzatore e gli organizzatori dell'evento non hanno alcuna responsabilità per lesioni, perdite o danni di qualsiasi tipo derivanti dalla tua partecipazione al programma Lights of Tuscany 2022.
       
     </a>
     
   
     <a
       
-         href="http://localhost:4000/files/IAPS_Code_of_Conduct.pdf"
+         href="http://localhost:4000/files/Informativa_Privacy_AISF.pdf"
       
       class="collection-item black-text">
-      You accept the IAPS Code of Conduct.
+      Accetti i Termini e le Condizioni di AISF.
       
         <span class="badge custom1 white-text">PDF</span>
       
@@ -383,7 +368,7 @@
          href="http://localhost:4000/#!"
       
       class="collection-item black-text">
-      By participating in the event you agree to be filmed, photographed, and otherwise recorded during the conference and hereby expressly grant the organizing committee, AISF and IAPS the right to use your picture, movie or any other form of media publication in contexts such as the internet, social medias, brochures, posters, informative and advertising materials. You also confirm that the information contained in this application is true and correct.
+      Partecipando all'evento accetti di essere ripreso, fotografato e registrato in altri modi durante la conferenza e con la presente concedi espressamente al comitato organizzatore, AISF, il diritto di utilizzare la tua foto, film o qualsiasi altra forma di pubblicazione sui media in contesti come il sito internet, social media, brochure, poster, materiale informativo e pubblicitario. Confermi inoltre che le informazioni contenute in questa iscrizione sono vere e corrette.
       
     </a>
     
@@ -393,7 +378,7 @@
          href="http://localhost:4000/#!"
       
       class="collection-item black-text">
-      You accept that either the organizing committee, or AISF or any of the hosting Institutes cannot be made responsible for the content of any talk, poster, workshop, excursion or similar activity.
+      Accetti che né il comitato organizzatore, né l'AISF o uno qualsiasi degli Istituti ospitanti non possano essere ritenuti responsabili del contenuto di qualsiasi intervento, poster, workshop, escursione o attività simile.
       
     </a>
     
@@ -403,7 +388,7 @@
          href="http://localhost:4000/#!"
       
       class="collection-item black-text">
-      You accept that, in case of cancellation by a participant, the Organizing Committee will provide a reimbursement up to April 1st, only if a replacement for the student can be found. Before this date, any reimbursement will be made with the exception of a €20 fee, which will be withheld to cover administrative costs. No reimbursement will be given for membership fees under any circumstances.
+      Accetti che, in caso di disdetta da parte di un partecipante, il Comitato Organizzatore provveda al rimborso fino al ------, solo se sarà possibile trovare un sostituto per lo studente. Prima di tale data, l'eventuale rimborso sarà effettuato ad eccezione di una quota di € 20, che verrà trattenuta a copertura delle spese amministrative. In nessun caso è previsto alcun rimborso delle quote associative.
       
     </a>
     
@@ -413,7 +398,7 @@
          href="http://localhost:4000/#!"
       
       class="collection-item black-text">
-      The present terms and conditions are governed by the laws of the Republic of Italy.
+      I presenti termini e condizioni sono regolati dalle leggi della Repubblica Italiana.
       
     </a>
     
@@ -422,7 +407,7 @@
 </div>
 
 <div class="section">
-  <h2>Deadline for registration and payment</h2>
+  <h2>Termine iscizioni e Pagamenti</h2>
   <p><p>
   <div class="collection">
   
@@ -431,7 +416,7 @@
          href="http://localhost:4000/#!"
       
       class="collection-item black-text">
-      registrations period will end on March 1st.
+      Le iscrizioni termineranno il -----
       
     </a>
     
@@ -441,7 +426,7 @@
          href="http://localhost:4000/#!"
       
       class="collection-item black-text">
-      All applicants will have been emailed within March 2nd. Payments will then be required (by bank transfer or PayPal) within March 5th.
+      Tutti i candidati saranno stati inviati via email entro il -----. I pagamenti saranno quindi richiesti (tramite bonifico bancario o PayPal) entro il ------.
       
     </a>
     
@@ -451,13 +436,22 @@
          href="http://localhost:4000/#!"
       
       class="collection-item black-text">
-      Please notice that applicants do not need to be specialising in the field of photonics, but can be from any discipline of Physics.
+      Si prega di notare che i candidati non devono essere specializzati nel campo della fotonica, ma possono provenire da qualsiasi disciplina della fisica.
       
     </a>
     
   
   </div>
-</div> -->
+</div>
+
+
+
+
+
+	<div class="row center">
+    <h2>Le iscrizioni sono ancora chiuse. <br>Per informazioni sulla loro apertura controlla i canali social AISF.</h2>
+    </div>
+
 
 <div class="row center">
 
