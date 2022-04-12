@@ -15,6 +15,7 @@ selection:
     - text: "Per partecipare all'evento devi essere iscritto ad AISF. Se non lo sei puoi iscriverti anche adesso."
       url: "http://ai-sf.it/iscrizione"
       button: Form
+    - text: "È richiesto ad ogni partecipante il possesso di un <b>green pass rafforzato</b> in corso di validità per tutta la durata dell'evento. Verrà richiesto ad esempio di mostrarlo all'entrata di ogni laboratorio o struttura coinvolta nel programma."
     - text: "Sono disponibili 40 posti. I candidati selezionati dovranno pagare una quota di partecipazione di massimo € 100 (cifra che non verrà chiesta subito e destinata a scendere nei prossimi giorni grazie agli sponsor)"
     - text: "Verrà data preferenza agli studenti che presenteranno abstract (per un talk o un poster)"
     - text: "Si prega di notare che sfortunatamente non possiamo fornire borse di studio e/o finanziamenti per nessuno studente al momento."
