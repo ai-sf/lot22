@@ -4,6 +4,8 @@ Il laboratorio VIRGO dell'European Gravitational Observatory (EGO).
 <br>
 Italy National Research Council (CNR).
 <br>
+L'Istituto Nazionale di Fisica Nucleare (INFN)
+<br>
 L'Università di Pisa.
 <br>
 L'Università di Firenze. 
@@ -48,3 +50,9 @@ science:
     descr: "L'Istituto Nazionale di Ottica (INO) è un caposaldo della rete scientifica del CNR. Opera da oltre novant'anni nel campo dell'Ottica, intesa nella sua accezione più ampia, e ha sempre aggiornato i propri campi di attività in linea con le grandi innovazioni che hanno caratterizzato questo ambito nell'ultimo secolo."
     site: "https://fed.ino.it/"
     map: "https://www.google.com/maps/place/Istituto+Nazionale+di+Ottica+(INO)+-+CNR+-+Pisa/@43.7192589,10.4240063,15z/data=!4m5!3m4!1s0x0:0x838ddb26b28a1f99!8m2!3d43.7192589!4d10.4240063"
+    
+  - img: img/facilities/INFN.jpg
+    title: INFN
+    descr: "La Sezione di Pisa dell’INFN nasce durante i primi anni cinquanta da un gruppo di ricercatori dell’Istituto di Fisica dell’Università di Pisa, facendo di questa città il perfetto punto d'incontro tra fisici teorici e sperimentali. I suoi ricercatori partecipano da sempre alle più importanti collaborazioni italiane e internazionali."
+    site: "https://www.pi.infn.it/"
+    map: "https://www.google.com/maps/place/INFN+-+Sezione+di+Pisa/@43.720615,10.4083,15z/data=!4m5!3m4!1s0x0:0x61fa050fe2979c7e!8m2!3d43.7206153!4d10.4083003?hl=it"

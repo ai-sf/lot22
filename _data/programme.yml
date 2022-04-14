@@ -18,7 +18,7 @@ schedule:
         descr: "Guest Lectures"
       - hour: "17.30 - 19.00"
         descr: "Poster Session"
-      - hour: "19.00 - 21.00"
+      - hour: "19.00 - 20.00"
         descr: "Cena a buffet"
       - hour: "21.00 - .."
         descr: "Visita notturna a Pisa"
@@ -34,11 +34,11 @@ schedule:
       - hour: "09.00 - 12.00"
         descr: "Visita a VIRGO"
       - hour: "12.00 - 14.00"
-        descr: "Pranzo"
+        descr: "Pranzo a mensa @Pisa"
       - hour: "14.00 - 19.00"
-        descr: "Visita ai laboratori (INO, ...)"
+        descr: "Visita ai laboratori (INO, UniPI, INFN) *"
       - hour: "19.00 - 21.00"
-        descr: "Cena a mensa @Pisa"
+        descr: "Cena"
       - hour: "21.00 - .."
         descr: "Free night"  
               
@@ -50,12 +50,10 @@ schedule:
       - hour: "07.00 - 08.00"
         descr: "Colazione"
       - hour: "08.00 - 12.00"
-        descr: "Visita ai laboratori"
-      - hour: "12.00 - 14.00"
-        descr: "Pranzo"
-      - hour: "14.00 - 16.00"
         descr: "Student Talks"
-      - hour: "16.00 - 19.00"
+      - hour: "12.00 - 14.00"
+        descr: "Pranzo a mensa @Pisa"
+      - hour: "15.00 - 19.00"
         descr: "Visite e attività culturali @Pisa"
       - hour: "19.00 - 21.00"
         descr: "Cena sociale"
@@ -70,7 +68,7 @@ schedule:
       - hour: "07.00 - 11.00"
         descr: "Colazione e Trasferimento a Firenze"
       - hour: "11.00 - 13.00"
-        descr: "Pranzo"
+        descr: "Pranzo a mensa @Firenze"
       - hour: "13.00 - 16.00"
         descr: "Visita al LENS"
       - hour: "16.00 - 17.00"
@@ -81,8 +79,8 @@ schedule:
 few_info:
   info: ""
   specs:
-    # - text: "* On the last day during the visit to the Laboratories, participants will be devided in 6 subgroups, each characterized by a different focus: "
-      # url: "#!"
+    - text: "* Per le visite di Sabato 14 pomeriggio o partecipanti saranno divisi in sottogruppi, ciascuno focalizzato su un particolare laboratorio. Qualche settimana prima dell'evento riceverete un form tramite il quale specificare le vostre preferenze. "
+      url: 
       # subpoints:
         # - text: "a) Ultracold atoms"
           # url: "#!"
@@ -91,13 +89,13 @@ few_info:
         # - text: "c) Biophysics"
           # url: "#!"
         # - text: "The 3 last groups will have a combination of the previous topics"
-    - text: "Il costo dell'evento per ciascun partecipante è fissato a €100. Tenete a mente che questa somma <b>non comprende</b>:"
-      url: "#!"
+    - text: "Il costo dell'evento per ciascun partecipante è fissato a un massimo di €80. Tenete a mente che questa somma <b>non comprende</b>:"
+      url: 
       subpoints:
         - text: "Viaggi verso Pisa, trasferimenti verso la vostra sistemazione e partenze da Firenze. L'organizzazione di questi e i loro costi sono lasciati al partecipante;"
-          url: "#!"
+          url: 
         - text: "Assicurazione;"
-          url: "#!"
+          url: 
         - text: "Pasti non specificati nel Programma ufficiale. Il Comitato Organizzatore non mancherà di suggerire luoghi dove poter mangiare e rilassarsi."
-          url: "#!"
+          url: 
    
