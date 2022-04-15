@@ -6,6 +6,8 @@ Italy National Research Council (CNR).
 <br>
 L'Istituto Nazionale di Fisica Nucleare (INFN)
 <br>
+# European Laboratory for Non-linear Spectroscopy (LENS)
+# <br>
 L'Università di Pisa.
 <br>
 L'Università di Firenze. 
@@ -28,14 +30,14 @@ university:
 accomodation:
 #  - img: img/facilities/hotel.jpg
 #    title: Hotel Moderno
-#    descr: "Accomodation in Pisa will be provided at the Hotel Moderno, Via F. Corridoni, 103 - 56125 Pisa (PI)"
+#    descr: "L'alloggio a Pisa sarà previsto presso l'Hotel Moderno, Via F. Corridoni, 103 - 56125 Pisa (PI)"
 #    site: "https://www.hotelmoderno.pisa.it/en/"
 #    map: "https://goo.gl/maps/BuixrGsC8tQ2"
     
 science:
   # - img: img/facilities/LENS.jpg
     # title: LENS
-    # descr: "The European Laboratory for Non-linear Spectroscopy (LENS) is an international and interdisciplinary structure in Florence. The main research lines are atomic physics, photonics, physical chemistry and biophysics."
+    # descr: "The European Laboratory for Non-linear Spectroscopy (LENS) è una struttura internazionale e interdisciplinare con sede a Firenze. Le principali linee di ricerca sono la fisica atomica, la fotonica, la chimica fisica e la biofisica."
     # site: "http://www.lens.unifi.it"
     # map: "https://www.google.es/maps/place/LENS/@43.8188678,11.190617,17z/data=!3m1!4b1!4m5!3m4!1s0x132a57a4fe34cce3:0x798b7fd7cf268883!8m2!3d43.818864!4d11.192811?hl=en"
 

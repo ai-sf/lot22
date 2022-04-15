@@ -2,8 +2,8 @@ info: "Puoi trovare il modulo di iscrizione in fondo a questa pagina.
 </p><p>
 Prima di compilarlo, leggi i termini e le condizioni di seguito. Ti ricordiamo che, al momento dell'iscrizione, ti verranno richiesti dati anagrafici (quali nome, cognome, data di nascita, affiliazione universitaria, documento di identità, ecc.) e una nota per descrivere la tua motivazione a partecipare all'evento."
 
-starting_date: "2022-04-10 00:00"
-ending_date: "2022-04-01 00:00"
+starting_date: "2022-04-30 12:00"
+ending_date: "2022-04-30 12:00"
 
 posters?: true
 
@@ -16,7 +16,8 @@ selection:
       url: "http://ai-sf.it/iscrizione"
       button: Form
     - text: "È richiesto ad ogni partecipante il possesso di un <b>green pass rafforzato</b> in corso di validità per tutta la durata dell'evento. Verrà richiesto ad esempio di mostrarlo all'entrata di ogni laboratorio o struttura coinvolta nel programma."
-    - text: "Sono disponibili 40 posti. Una volta terminato il periodo di iscrizione, i candidati selezionati dovranno confermare l'iscrizione pagando una quota di partecipazione di massimo € 80"
+    - text: "Sono disponibili 40 posti. Una volta terminato il periodo di iscrizione, i candidati selezionati dovranno confermare l'iscrizione pagando una quota di partecipazione di massimo € 80."
+    - text: "Nel modulo di iscrizione è possibile di organizzare la propria sistemazione autonomamente; in tal caso la quota di partecipazione è € 50."
     - text: "Verrà data preferenza agli studenti che presenteranno abstract (per un talk o un poster)"
     - text: "Si prega di notare che sfortunatamente non possiamo fornire borse di studio e/o finanziamenti per nessuno studente al momento."
 
@@ -36,7 +37,7 @@ terms:
       url: "#!"
     - text: "Accetti che né il comitato organizzatore, né l'AISF o uno qualsiasi degli Istituti ospitanti non possano essere ritenuti responsabili del contenuto di qualsiasi intervento, poster, workshop, escursione o attività simile."
       url: "#!"
-    - text: "Accetti che, in caso di disdetta da parte di un partecipante, il Comitato Organizzatore provveda al rimborso fino al ------, solo se sarà possibile trovare un sostituto per lo studente. Prima di tale data, l'eventuale rimborso sarà effettuato ad eccezione di una quota di € 20, che verrà trattenuta a copertura delle spese amministrative. In nessun caso è previsto alcun rimborso delle quote associative."
+    - text: "Accetti che, in caso di disdetta da parte di un partecipante, il Comitato Organizzatore provveda al rimborso fino al 5 Maggio 2022, solo se sarà possibile trovare un sostituto per lo studente. Prima di tale data, l'eventuale rimborso sarà effettuato ad eccezione di una quota di € 20, che verrà trattenuta a copertura delle spese amministrative. In nessun caso è previsto alcun rimborso delle quote associative."
       url: "#!"
     - text: "I presenti termini e condizioni sono regolati dalle leggi della Repubblica Italiana."
       url: "#!"
@@ -44,9 +45,9 @@ terms:
 deadlines:
   info: ""
   specs:
-    - text: "Le iscrizioni termineranno il -----"
+    - text: "Le iscrizioni termineranno il 30 Aprile 2022 alle 12:00"
       url: "#!"
-    - text: "Una volta terminate le iscrizioni, tutti i partecipanti selezionati saranno contattati via email. I pagamenti saranno quindi richiesti (tramite bonifico bancario o PayPal) entro il ------."
+    - text: "Una volta terminate le iscrizioni, tutti i partecipanti selezionati saranno contattati via email. I pagamenti saranno quindi richiesti (tramite bonifico bancario o PayPal) entro il 5 Maggio 2022."
       url: "#!"
     - text: "Si prega di notare che i partecipanti non devono essere specializzati nel campo della fotonica, ma possono provenire da qualsiasi disciplina della fisica."
       url: "#!"
