@@ -4,7 +4,7 @@ content:
 - nome: "Prof.ssa Donatella Ciampini"
   id: ciampini
   uni: "Università di Pisa"
-  img: "ciampini.jpg"
+  img: #"ciampini.jpg"
   title: ""
   bio: "Donatella Ciampini è professore associato di Fisica applicata presso il Dipartimento di Fisica dell'Università di Pisa dal 2016. Ha conseguito un dottorato di ricerca in Fisica presso UniPI (2002) ed è stata Guest Researcher al National Institute of Standards and Technology. <br>
   Ha pubblicato più di 50 lavori su riviste internazionali. Un suo lavoro sui condensati di Bose-Einstein su reticoli ottici ed altre tre pubblicazioni sono stati selezionati da Word of Science come “Highly Cited Paper” in Essential Science Indicators. <br>
@@ -17,7 +17,7 @@ content:
 - nome: "Prof. Alessandro Tredicucci"
   id: tredicucci
   uni: "Università di Pisa"
-  img: "tredicucci.jpg"
+  img: #"tredicucci.jpg"
   title: ""
   bio: "Alessandro Tredicucci è professore ordinario di Fisica della materia condensata presso il Dipartimento di Fisica dell'Università di Pisa dal 2014, presso la quale è Direttore del Centro Interdipartimentale di Ricerca in Scienza e Ingegneria dei Materiali. Ha conseguito un dottorato di ricerca in Fisica presso la Scuola Normale Superiore (1997), ed è stato in precedenza presso Bell Labs, SNS e CNR. <br>
   È noto per aver aperto la strada al campo dei laser a cascata quantistica THz e dei polaritoni intersottobanda. La sua attività è ora focalizzata anche sulla fotonica del grafene e sull'optomeccanica THz. È coautore di oltre 290 articoli e pubblicazioni (l'h-index è 57), detiene 16 brevetti internazionali e ha tenuto più di 80 conferenze su invito. <br>
@@ -28,7 +28,7 @@ content:
 - nome: "Prof. Francesco Fuso"
   id: fuso
   uni: "Università di Pisa"
-  img: "fuso.jpg"
+  img: #"fuso.jpg"
   title: ""
   bio: "Francesco Fuso è professore associato di Fisica della materia presso il Dipartimento di Fisica dell'Università di Pisa dal 2002, del quale è vicedirettore. Ha conseguito un dottorato in Fisica presso UniPI nel 1994. È membro associato dell'Istituto di Ottica (INO-CNR) e del Consorzio Nazionale Interuniversitario per le Scienze Fisiche della Materia (CNISM).<br>
   Tra le sue pubblicazioni spiccano più di 80 articoli su riviste internazionali. Ha tenuto oltre 130 conferenze di cui più di 20 su invito. <br>
