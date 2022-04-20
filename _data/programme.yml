@@ -69,7 +69,7 @@ schedule:
         descr: "Colazione e Trasferimento a Firenze"
       - hour: "11.00 - 13.00"
         descr: "Pranzo a mensa @Firenze"
-      - hour: "13.00 - 16.00"
+      - hour: "14.00 - 16.00"
         descr: "Visita al LENS"
       - hour: "16.00 - 17.00"
         descr: Cerimonia di Chiusura"

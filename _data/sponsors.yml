@@ -25,15 +25,15 @@
 
 
 
-- title: "Con il patrocinio di:"
+- title: # "Con il patrocinio di:"
   format: "m3"
   subitems:
     # - text: Comune di Firenze
       # img: comune_firenze.jpg
       # link: 
-    - text: Comune di Pisa
-      img: comune_pisa.png
-      link: 
+    # - text: Comune di Pisa
+      # img: comune_pisa.png
+      # link: 
     - text: Dipartimento di Fisica e Astronomia - UniFi 
       img: dipartimento_firenze.png
       link:

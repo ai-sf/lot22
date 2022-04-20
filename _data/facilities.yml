@@ -6,8 +6,8 @@ Italy National Research Council (CNR).
 <br>
 L'Istituto Nazionale di Fisica Nucleare (INFN)
 <br>
-# European Laboratory for Non-linear Spectroscopy (LENS)
-# <br>
+European Laboratory for Non-linear Spectroscopy (LENS)
+<br>
 L'Università di Pisa.
 <br>
 L'Università di Firenze. 
@@ -35,11 +35,11 @@ accomodation:
 #    map: "https://goo.gl/maps/BuixrGsC8tQ2"
     
 science:
-  # - img: img/facilities/LENS.jpg
-    # title: LENS
-    # descr: "The European Laboratory for Non-linear Spectroscopy (LENS) è una struttura internazionale e interdisciplinare con sede a Firenze. Le principali linee di ricerca sono la fisica atomica, la fotonica, la chimica fisica e la biofisica."
-    # site: "http://www.lens.unifi.it"
-    # map: "https://www.google.es/maps/place/LENS/@43.8188678,11.190617,17z/data=!3m1!4b1!4m5!3m4!1s0x132a57a4fe34cce3:0x798b7fd7cf268883!8m2!3d43.818864!4d11.192811?hl=en"
+  - img: img/facilities/LENS.jpg
+    title: LENS
+    descr: "The European Laboratory for Non-linear Spectroscopy (LENS) è una struttura internazionale e interdisciplinare con sede a Firenze. Le principali linee di ricerca sono la fisica atomica, la fotonica, la chimica fisica e la biofisica."
+    site: "http://www.lens.unifi.it"
+    map: "https://www.google.es/maps/place/LENS/@43.8188678,11.190617,17z/data=!3m1!4b1!4m5!3m4!1s0x132a57a4fe34cce3:0x798b7fd7cf268883!8m2!3d43.818864!4d11.192811?hl=en"
 
   - img: img/facilities/VIRGO.jpg
     title: VIRGO

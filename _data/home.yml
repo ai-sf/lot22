@@ -9,10 +9,10 @@ when: "Dal 13 al 16 Maggio 2022, arrivi e partenze compresi."
 where: "Tre giorni a Pisa, uno a Firenze.<br/> La cerimonia di apertura si terrà a Pisa, con conferenze e poster session. Nei giorni successivi i partecipanti visiteranno, tra gli altri, i laboratori di VIRGO e CNR, ma avranno anche l'opportunità di visitare la città di Pisa.<br/> Il lunedì invece ci sposteremo a Firenze, dove sarà possibile visitare i laboratori del LENS e il dipartimento di Fisica, dove si terrà la cerimonia di chiusura."
 
 slideshow:
-  # - img: img/facilities/lens.jpg
-    # alt: European Laboratory for Nonlinear Spectroscopy
-    # title: LENS
-    # text: European Laboratory for Nonlinear Spectroscopy
+  - img: img/facilities/lens.jpg
+    alt: European Laboratory for Nonlinear Spectroscopy
+    title: LENS
+    text: European Laboratory for Nonlinear Spectroscopy
   - img: img/facilities/LoT5.jpg
     alt: VIRGO European Gravitational Observatory
     title: VIRGO
