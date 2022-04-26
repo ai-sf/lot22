@@ -6,26 +6,39 @@
       # link: "http://www.l4t.it/en/home-2/"    
     - text: LENS
       img: lens.png
-      link:   
+      link: "http://www.lens.unifi.it"
     - text: INFN
       img: infn.jpg
-      link:
+      link: "https://www.pi.infn.it/"
     - text: VIRGO
       img: virgo.png
-      link:
-    - text: Società Italiana di Fisica
-      img: SocItFisica.jpg
-      link:
-    - text: Consiglio Nazionale delle ricerche
-      img: CNR.png
-      link:
+      link: "http://www.virgo-gw.eu"
+    # - text: Consiglio Nazionale delle ricerche
+      # img: CNR.png
+      # link: 
     - text: INO
       img: cnr_ino.png
-      link:
+      link: "https://fed.ino.it/"
+
+- title: ""
+  format: "m3"
+  subitems:
+    - text: Dipartimento di Fisica e Astronomia - UniFi 
+      img: dipartimento_firenze.png
+      link: "http://www.fisica.unifi.it/"
+    - text: Dipartimento di Fisica - UniPi 
+      img: dipartimento_pisa.png
+      link: "http://www.df.unipi.it"
+    - text: Università di Pisa
+      img: unipi.png
+      link: "https://www.unipi.it/"
+    - text: University of Firenze
+      img: LOGO_UNIFI.jpg
+      link: "https://www.unifi.it/"
 
 
 
-- title: # "Con il patrocinio di:"
+- title: "Con il patrocinio di:"
   format: "m3"
   subitems:
     # - text: Comune di Firenze
@@ -34,18 +47,9 @@
     # - text: Comune di Pisa
       # img: comune_pisa.png
       # link: 
-    - text: Dipartimento di Fisica e Astronomia - UniFi 
-      img: dipartimento_firenze.png
-      link:
-    - text: Dipartimento di Fisica - UniPi 
-      img: dipartimento_pisa.png
-      link:
-    - text: Università di Pisa
-      img: unipi.png
-      link:
-    - text: University of Firenze
-      img: LOGO_UNIFI.jpg
-      link:
+    - text: Società Italiana di Fisica
+      img: "logo-sif-125-oro.png"
+      link: "http://www.sif.it/news"
    
     
    
