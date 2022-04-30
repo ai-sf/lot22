@@ -17,23 +17,22 @@ content:
 - nome: "Prof. Alessandro Tredicucci"
   id: tredicucci
   uni: "Università di Pisa"
-  img: #"tredicucci.jpg"
-  title: ""
+  img: "tredicucci.jpg"
+  title: "Nanomaterials and microstructures for THz devices"
   bio: "Alessandro Tredicucci è professore ordinario di Fisica della materia condensata presso il Dipartimento di Fisica dell'Università di Pisa dal 2014, presso la quale è Direttore del Centro Interdipartimentale di Ricerca in Scienza e Ingegneria dei Materiali. Ha conseguito un dottorato di ricerca in Fisica presso la Scuola Normale Superiore (1997), ed è stato in precedenza presso Bell Labs, SNS e CNR. <br>
   È noto per aver aperto la strada al campo dei laser a cascata quantistica THz e dei polaritoni intersottobanda. La sua attività è ora focalizzata anche sulla fotonica del grafene e sull'optomeccanica THz. È coautore di oltre 290 articoli e pubblicazioni (l'h-index è 57), detiene 16 brevetti internazionali e ha tenuto più di 80 conferenze su invito. <br>
   Ha ricevuto numerosi riconoscimenti, tra cui la Medaglia Occhialini dell'Istituto di Fisica / Società Italiana di Fisica e il premio Nick Holonyak Jr della Optical Society of America."
-  abstract: ""
+  abstract: "While the wavelength of THz light is in the hundred micrometers range, more and more new physics, device concepts and functionalities are emerging by engineering materials and structures at the micro and nanoscale. In this talk I will present recent developments and future perspectives in the miniaturization of THz quantum cascade lasers and discuss how micro-mechanical elements can find intriguing applications in the detection and modulation of THz radiation. Lastly, I will sketch a few examples of how 2D nanomaterials, like graphene, can impact THz technologies, possibly in directions where truly 'quantum' effects can be exploited."
   link:
 
 - nome: "Prof. Francesco Fuso"
   id: fuso
   uni: "Università di Pisa"
-  img: #"fuso.jpg"
-  title: ""
-  bio: "Francesco Fuso è professore associato di Fisica della materia presso il Dipartimento di Fisica dell'Università di Pisa dal 2002, del quale è vicedirettore. Ha conseguito un dottorato in Fisica presso UniPI nel 1994. È membro associato dell'Istituto di Ottica (INO-CNR) e del Consorzio Nazionale Interuniversitario per le Scienze Fisiche della Materia (CNISM).<br>
-  Tra le sue pubblicazioni spiccano più di 80 articoli su riviste internazionali. Ha tenuto oltre 130 conferenze di cui più di 20 su invito. <br>
-  Nella sua attività di ricerca si è occupato, principalmente dal punto di vista sperimentale, di svariati temi di interazione laser-materia, struttura della materia, scienza dei materiali e tecnologie emergenti. Attualmente è interessato alla nano-ottica e lo sviluppo e l'uso di metodi ottici avanzati come la microscopia ottica a scansione near-field (SNOM), nonché al controllo laser della materia, in particolare per la creazione di fasci ionici prodotti da sample atomici raffreddati con laser."
-  abstract: ""
+  img: "fuso.jpg"
+  title: "Towards combining lasers and gene editing via plasmonics"
+  bio: "Francesco Fuso è Professore Associato presso il Dipartimento di Fisica Enrico Fermi, Università di Pisa. I suoi interessi di ricerca coprono una vasta gamma di applicazioni laser alla tecnologia, alla microscopia avanzata, alla scienza dei materiali. È autore di oltre 160 pubblicazioni su riviste internazionali peer-reviewed e di oltre 50 partecipazioni a conferenze scientifiche.<br/>
+  È stato coinvolto in diversi progetti di ricerca finanziati da istituzioni nazionali e internazionali, è membro del comitato editoriale di Materials Research Express (IOP, Bristol) e Biosensors (MDPI, Basel), è stato nominato Outstanding Referee dall'American Physical Society nel 2021 È stato Vice Direttore del Dipartimento di Fisica e Vice Coordinatore della Scuola di Dottorato in Fisica dell'Università di Pisa."
+  abstract: "Laser light finds a huge array of applications. Some of them entail selective transfer of energy that can be used, for instance, to increase temperature at the very local scale. When illuminated by suitable light pulses, metal nanoparticles featuring localized plasmon resonances can play the game. An experiment is discussed where metal nanoparticles are attached to selected sites in a DNA strand, with the aim to promote controlled cleavage of the DNA upon laser illumination. Ambition of the approach is to add a laser control to the CRISPR method, a recently introduced biotechnology aimed at gene editing."
   link: 
 # slides: file.pdf
 
