@@ -10,13 +10,13 @@ schedule:
     date: "13/05"
     short_descr: Arrivo a Pisa e Conferenze di Apertura.
     activity:
-      - hour: "07.00 - 14.00"
+      - hour: "07.00 - 15.00"
         descr: "Check-in"
-      - hour: "14.00 - 14.30"
+      - hour: "16.00 - 16.15"
         descr: "Cerimonia di Apertura"
-      - hour: "14.30 - 17.30"
+      - hour: "16.15 - 19.00"
         descr: "Guest Lectures"
-      - hour: "17.30 - 19.00"
+      - hour: "19.00 - .."
         descr: "Poster Session"
       - hour: "19.00 - 20.00"
         descr: "Cena a buffet"
@@ -33,10 +33,10 @@ schedule:
         descr: "Trasferimento in bus"
       - hour: "09.00 - 12.00"
         descr: "Visita a VIRGO"
-      - hour: "12.00 - 14.00"
+      - hour: "12.30 - 13.30"
         descr: "Pranzo a mensa @Pisa"
-      - hour: "14.00 - 19.00"
-        descr: "Visita ai laboratori (INO, UniPI, INFN) *"
+      - hour: "14.30 - 19.00"
+        descr: "Visita ai laboratori"
       - hour: "19.00 - 21.00"
         descr: "Cena"
       - hour: "21.00 - .."
@@ -73,14 +73,14 @@ schedule:
         descr: "Visita al LENS"
       - hour: "16.00 - 17.00"
         descr: Cerimonia di Chiusura"
-      - hour: "17.00 - .."
+      - hour: "17.30 - .."
         descr: "Partenze"  
 
 few_info:
   info: ""
   specs:
-    - text: "* Per le visite di Sabato 14 pomeriggio o partecipanti saranno divisi in sottogruppi, ciascuno focalizzato su un particolare laboratorio. Qualche settimana prima dell'evento riceverete un form tramite il quale specificare le vostre preferenze. "
-      url: 
+    # - text: "* Per le visite di Sabato 14 pomeriggio o partecipanti saranno divisi in sottogruppi, ciascuno focalizzato su un particolare laboratorio. Qualche settimana prima dell'evento riceverete un form tramite il quale specificare le vostre preferenze. "
+      # url: 
       # subpoints:
         # - text: "a) Ultracold atoms"
           # url: "#!"
