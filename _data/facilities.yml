@@ -28,11 +28,11 @@ university:
     map: "https://www.google.es/maps/place/Largo+Bruno+Pontecorvo,+56127+Pisa+PI,+Italy/@43.7199988,10.4051688,17z/data=!3m1!4b1!4m5!3m4!1s0x12d591bca16a42c9:0x1b68e0b23702261a!8m2!3d43.7199949!4d10.4073628?hl=en"
 
 accomodation:
-#  - img: img/facilities/hotel.jpg
-#    title: Hotel Moderno
-#    descr: "L'alloggio a Pisa sarà previsto presso l'Hotel Moderno, Via F. Corridoni, 103 - 56125 Pisa (PI)"
-#    site: "https://www.hotelmoderno.pisa.it/en/"
-#    map: "https://goo.gl/maps/BuixrGsC8tQ2"
+ - img: img/facilities/hotel.jpg
+   title: Hotel Moderno
+   descr: "L'alloggio a Pisa sarà previsto presso l'Hotel Moderno, Via F. Corridoni, 103 - 56125 Pisa (PI)"
+   site: "https://www.hotelmoderno.pisa.it/en/"
+   map: "https://goo.gl/maps/BuixrGsC8tQ2"
     
 science:
   - img: img/facilities/LENS.jpg
