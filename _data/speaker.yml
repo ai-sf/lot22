@@ -10,7 +10,7 @@ content:
   Ricerca nel campo della Fisica Atomica, Molecolare e Ottica, in particolare nel controllo quantistico della materia, ovvero la manipolazione, attraverso l’interazione radiazione/materia, di sistemi quantistici. Negli ultimi anni i suoi interessi comprendono anche attività di ricerca in fisica applicata, in particolare sistemi optomeccanici in cavità e basati su fibre fotoniche, con applicazioni di sensoristica avanzata."
   abstract: ""
   link:
-  slides: 
+  slides: Ciampini.pdf
 
 
 - nome: "Prof. Alessandro Tredicucci"
@@ -23,6 +23,7 @@ content:
   Ha ricevuto numerosi riconoscimenti, tra cui la Medaglia Occhialini dell'Istituto di Fisica / Società Italiana di Fisica e il premio Nick Holonyak Jr della Optical Society of America."
   abstract: "While the wavelength of THz light is in the hundred micrometers range, more and more new physics, device concepts and functionalities are emerging by engineering materials and structures at the micro and nanoscale. In this talk I will present recent developments and future perspectives in the miniaturization of THz quantum cascade lasers and discuss how micro-mechanical elements can find intriguing applications in the detection and modulation of THz radiation. Lastly, I will sketch a few examples of how 2D nanomaterials, like graphene, can impact THz technologies, possibly in directions where truly 'quantum' effects can be exploited."
   link:
+  slides: Tredicucci.pdf
 
 - nome: "Prof. Francesco Fuso"
   id: fuso
@@ -33,7 +34,7 @@ content:
   È stato coinvolto in diversi progetti di ricerca finanziati da istituzioni nazionali e internazionali, è membro del comitato editoriale di Materials Research Express (IOP, Bristol) e Biosensors (MDPI, Basel), è stato nominato Outstanding Referee dall'American Physical Society nel 2021 È stato Vice Direttore del Dipartimento di Fisica e Vice Coordinatore della Scuola di Dottorato in Fisica dell'Università di Pisa."
   abstract: "Laser light finds a huge array of applications. Some of them entail selective transfer of energy that can be used, for instance, to increase temperature at the very local scale. When illuminated by suitable light pulses, metal nanoparticles featuring localized plasmon resonances can play the game. An experiment is discussed where metal nanoparticles are attached to selected sites in a DNA strand, with the aim to promote controlled cleavage of the DNA upon laser illumination. Ambition of the approach is to add a laser control to the CRISPR method, a recently introduced biotechnology aimed at gene editing."
   link: 
-# slides: file.pdf
+  slides: Fuso.pdf
 
   
 

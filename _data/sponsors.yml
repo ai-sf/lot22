@@ -44,9 +44,9 @@
     # - text: Comune di Firenze
       # img: comune_firenze.jpg
       # link: 
-    # - text: Comune di Pisa
-      # img: comune_pisa.png
-      # link: 
+    - text: Comune di Pisa
+      img: comune_pisa.png
+      link: 
     - text: Società Italiana di Fisica
       img: "logo-sif-125-oro.png"
       link: "http://www.sif.it/news"
