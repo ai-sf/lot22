@@ -13,7 +13,7 @@ selection:
   info: ""
   specs:
     - text: "Per partecipare all'evento devi essere iscritto ad AISF. Se non lo sei puoi iscriverti anche adesso."
-      url: "http://ai-sf.it/iscrizione"
+      url: "https://ai-sf.it/iscrizione"
       button: Form
     - text: "È richiesto ad ogni partecipante il possesso di un <b>green pass rafforzato</b> in corso di validità per tutta la durata dell'evento. Verrà richiesto ad esempio di mostrarlo all'entrata di ogni laboratorio o struttura coinvolta nel programma."
     - text: "Sono disponibili 40 posti. Una volta terminato il periodo di iscrizione, i candidati selezionati dovranno confermare l'iscrizione pagando una quota di partecipazione di massimo € 80."
